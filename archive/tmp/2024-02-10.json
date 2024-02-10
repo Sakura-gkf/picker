@@ -1,0 +1,228 @@
+{
+    "NDSS": {
+        "Enhancing Security Event Detection on Twitter with Graph-based Tweet Embedding": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Enhancing%20Security%20Event%20Detection%20on%20Twitter%20with%20Graph-based%20Tweet%20Embedding",
+        "Differentially Private Dataset Condensation": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Differentially%20Private%20Dataset%20Condensation",
+        "Heterogeneous Graph Pre-training Based Model for Secure and Efficient Prediction of Default Risk Propagation among Bond Issuers": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Heterogeneous%20Graph%20Pre-training%20Based%20Model%20for%20Secure%20and%20Efficient%20Prediction%20of%20Default%20Risk%20Propagation%20among%20Bond%20Issuers",
+        "Towards a Certifiably Robust Defense for Multi-label Classifiers Against Adversarial Patches": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Towards%20a%20Certifiably%20Robust%20Defense%20for%20Multi-label%20Classifiers%20Against%20Adversarial%20Patches",
+        "Auditing Artist Style Pirate in Text-to-image Generation Models": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Auditing%20Artist%20Style%20Pirate%20in%20Text-to-image%20Generation%20Models",
+        "Opinion Manipulation of Controversial Topics Based on Adversarial Ranking Attacks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Opinion%20Manipulation%20of%20Controversial%20Topics%20Based%20on%20Adversarial%20Ranking%20Attacks",
+        "Strengthening Privacy in Robust Federated Learning through Secure Aggregation": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Strengthening%20Privacy%20in%20Robust%20Federated%20Learning%20through%20Secure%20Aggregation",
+        "Aligning Confidential Computing with Cloud-native ML Platforms": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Aligning%20Confidential%20Computing%20with%20Cloud-native%20ML%20Platforms",
+        "Exploring the Influence of Prompts in LLMs for Security-Related Tasks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Exploring%20the%20Influence%20of%20Prompts%20in%20LLMs%20for%20Security-Related%20Tasks",
+        "Facilitating Threat Modeling by Leveraging Large Language Models": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Facilitating%20Threat%20Modeling%20by%20Leveraging%20Large%20Language%20Models",
+        "Benchmarking transferable adversarial attacks": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#Benchmarking%20transferable%20adversarial%20attacks",
+        "PANDORA: Jailbreak GPTs by Retrieval Augmented Generation Poisoning": "https://www.ndss-symposium.org/ndss2024/co-located-events/aiscc/accepted-papers/#PANDORA:%20Jailbreak%20GPTs%20by%20Retrieval%20Augmented%20Generation%20Poisoning"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-02-09 Review": "http://www.sec-wiki.com/?2024-02-09"
+    },
+    "Hacking Articles": {
+        "A Detailed Guide on Ligolo-Ng": "https://www.hackingarticles.in/a-detailed-guide-on-ligolo-ng/"
+    },
+    "Hacking Dream": {
+        "Future of Generative AI and The Dark Side of Advanced AI Systems": "https://www.hackingdream.net/2024/02/future-of-generative-ai-and-dark-side-of-advanced-ai-systems.html"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Rail Pass Management System 1.0 - Time-Based SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51790&utm_source=rss&utm_medium=rss",
+        "WordPress Augmented-Reality Remote Code Execution exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177038&utm_source=rss&utm_medium=rss",
+        "Rail Pass Management System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177043&utm_source=rss&utm_medium=rss",
+        "Online Nurse Hiring System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177044&utm_source=rss&utm_medium=rss",
+        "Zyxel zysh - Format string exploit": "https://sploitus.com/exploit?id=EDB-ID:51786&utm_source=rss&utm_medium=rss",
+        "Wordpress Seotheme - Remote Code Execution Unauthenticated exploit": "https://sploitus.com/exploit?id=EDB-ID:51789&utm_source=rss&utm_medium=rss",
+        "WordPress Seotheme Shell Upload exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177037&utm_source=rss&utm_medium=rss",
+        "Online Nurse Hiring System 1.0 - Time-Based SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51791&utm_source=rss&utm_medium=rss",
+        "Wordpress Augmented-Reality - Remote Code Execution Unauthenticated exploit": "https://sploitus.com/exploit?id=EDB-ID:51788&utm_source=rss&utm_medium=rss",
+        "Advanced Page Visit Counter 1.0 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177052&utm_source=rss&utm_medium=rss",
+        "Zyxel zysh Format String Proof Of Concept exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177036&utm_source=rss&utm_medium=rss",
+        "IBM i Access Client Solutions Remote Credential Theft exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177069&utm_source=rss&utm_medium=rss",
+        "Elasticsearch - StackOverflow DoS exploit": "https://sploitus.com/exploit?id=EDB-ID:51787&utm_source=rss&utm_medium=rss",
+        "Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting (XSS) (Authenticated) exploit": "https://sploitus.com/exploit?id=EDB-ID:51785&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-22024 exploit": "https://sploitus.com/exploit?id=152171E7-A974-534C-81EB-E0BCFF3B4C15&utm_source=rss&utm_medium=rss"
+    },
+    "Data Breach": {
+        "Black Basta ransomware gang hacked Hyundai Motor Europe": "https://securityaffairs.com/158916/data-breach/black-basta-ransomware-hyundai-motor-europe.html"
+    },
+    "Security Boulevard": {
+        "USENIX Security ’23 – Hyungseok Kim, Soomin Kim, Junoh Lee, Kangkook Jee, Sang Kil Cha – Reassembly is Hard: A Reflection on Challenges and Strategies": "https://securityboulevard.com/2024/02/usenix-security-23-hyungseok-kim-soomin-kim-junoh-lee-kangkook-jee-sang-kil-cha-reassembly-is-hard-a-reflection-on-challenges-and-strategies/",
+        "Checkmarx Report Surfaces Software Supply Chain Compromises": "https://securityboulevard.com/2024/02/checkmarx-report-surfaces-software-supply-chain-compromises/",
+        "Daniel Stori’s ‘jr developer vs machine learning’": "https://securityboulevard.com/2024/02/daniel-storis-jr-developer-vs-machine-learning/",
+        "QR Code Phishing Attacks Target High-Level Executives: Report": "https://securityboulevard.com/2024/02/qr-code-phishing-attacks-target-high-level-executives-report/",
+        "Introducing notification rules: You can now tailor your alerts with precision": "https://securityboulevard.com/2024/02/introducing-notification-rules-you-can-now-tailor-your-alerts-with-precision/",
+        "The Hacker News: Critical Boot Loader Vulnerability in Shim Impacts Nearly All Linux DistrosThe Hacker News:": "https://securityboulevard.com/2024/02/the-hacker-news-critical-boot-loader-vulnerability-in-shim-impacts-nearly-all-linux-distrosthe-hacker-news/",
+        "Least Privilege for Data: A Balancing Act": "https://securityboulevard.com/2024/02/least-privilege-for-data-a-balancing-act/",
+        "USENIX Security ’23 – Soumyakant Priyadarshan, Huan Nguyen, Rohit Chouhan, and R. Sekar – SAFER: Efficient and Error-Tolerant Binary Instrumentation": "https://securityboulevard.com/2024/02/usenix-security-23-soumyakant-priyadarshan-huan-nguyen-rohit-chouhan-and-r-sekar-safer-efficient-and-error-tolerant-binary-instrumentation/",
+        "SOC 1 vs SOC 2: Everything you need to know about the SOC attestations": "https://securityboulevard.com/2024/02/soc-1-vs-soc-2-everything-you-need-to-know-about-the-soc-attestations/",
+        "US Offers $10 Million Reward for Info About Hive Ransomware Leaders": "https://securityboulevard.com/2024/02/us-offers-10-million-reward-for-info-about-hive-ransomware-leaders/"
+    },
+    "Tenable Blog": {
+        "CVE-2024-21762: Critical Fortinet FortiOS Out-of-Bound Write SSL VPN Vulnerability": "https://www.tenable.com/blog/cve-2024-21762-critical-fortinet-fortios-out-of-bound-write-ssl-vpn-vulnerability",
+        "Shoring Up Water Security: Industry Leaders Testify Before Congress": "https://www.tenable.com/blog/shoring-up-water-security-industry-leaders-testify-before-congress",
+        "Cybersecurity Snapshot: Critical Infrastructure Orgs Must Beware of China-backed Volt Typhoon, Cyber Agencies Warn": "https://www.tenable.com/blog/cybersecurity-snapshot-critical-infrastructure-orgs-must-beware-of-china-backed-volt-typhoon"
+    },
+    "Trail of Bits Blog": {
+        "Master fuzzing with our new Testing Handbook chapter": "https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/"
+    },
+    "HackerNoon": {
+        "Hibernate 5 and Entities Duplication: Let’s Dive Under the Hood": "https://hackernoon.com/hibernate-5-and-entities-duplication-lets-dive-under-the-hood?source=rss",
+        "Bitcoin Dogs Set To Make History With First Ever ICO On Bitcoin Blockchain": "https://hackernoon.com/bitcoin-dogs-set-to-make-history-with-first-ever-ico-on-bitcoin-blockchain?source=rss",
+        "How to Build an Agent With an OpenAI Assistant in Python - Part 1: Conversational": "https://hackernoon.com/how-to-build-an-agent-with-an-openai-assistant-in-python-part-1-conversational?source=rss",
+        "To Automate or Not: Navigating Manual and Automated Testing Paradigms": "https://hackernoon.com/to-automate-or-not-navigating-manual-and-automated-testing-paradigms?source=rss",
+        "Meet HarperDB, Winner of the Startups of the Year in Denver": "https://hackernoon.com/meet-harperdb-winner-of-the-startups-of-the-year-in-denver?source=rss",
+        "Meet not8, Winner of the Startups of the Year in Amsterdam": "https://hackernoon.com/meet-not8-winner-of-the-startups-of-the-year-in-amsterdam?source=rss",
+        "Points Guard": "https://hackernoon.com/points-guard?source=rss",
+        "Have a Chance To Win $888k With Option2Trade (O2T), Whilst Kaspa (KAS) Skyrockets 18% In 24 Hours": "https://hackernoon.com/have-a-chance-to-win-$888k-with-option2trade-o2t-whilst-kaspa-kas-skyrockets-18percent-in-24-hours?source=rss",
+        "Android Autotesting With Kaspresso": "https://hackernoon.com/android-autotesting-with-kaspresso?source=rss",
+        "Proxies, VPNs: Your Online Privacy, Anonymity and More": "https://hackernoon.com/proxies-vpns-your-online-privacy-anonymity-and-more?source=rss",
+        "Meet Steer Health, Runner-up of the Startups of the Year in Dallas": "https://hackernoon.com/meet-steer-health-runner-up-of-the-startups-of-the-year-in-dallas?source=rss",
+        "The Noonification: Coding Interview Prep: Algorithmic Puzzles and Cube Surface Mastery (2/9/2024)": "https://hackernoon.com/2-9-2024-noonification?source=rss",
+        "States Seek Relief Against Meta for COPPA Violations": "https://hackernoon.com/states-seek-relief-against-meta-for-coppa-violations?source=rss",
+        "Washington Pursues Meta for Violating Consumer Protection Act": "https://hackernoon.com/washington-pursues-meta-for-violating-consumer-protection-act?source=rss",
+        "Wisconsin Targets Meta Under Trade Practices Act": "https://hackernoon.com/wisconsin-targets-meta-under-trade-practices-act?source=rss",
+        "Introducing Ola's Pre-Alpha Testnet: Empowering Data Ownership and ZK Smart Contract Innovation": "https://hackernoon.com/introducing-olas-pre-alpha-testnet-empowering-data-ownership-and-zk-smart-contract-innovation?source=rss",
+        "77 Stories To Learn About Newsletter": "https://hackernoon.com/77-stories-to-learn-about-newsletter?source=rss",
+        "581 Stories To Learn About Non Fiction": "https://hackernoon.com/581-stories-to-learn-about-non-fiction?source=rss",
+        "105 Stories To Learn About Moby Dick Or The Whale": "https://hackernoon.com/105-stories-to-learn-about-moby-dick-or-the-whale?source=rss",
+        "Addressing OpenHarmony Development Challenges: Insights and Solutions": "https://hackernoon.com/addressing-openharmony-development-challenges-insights-and-solutions?source=rss"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[webapps] Online Nurse Hiring System 1.0 - Time-Based SQL Injection": "https://www.exploit-db.com/exploits/51791",
+        "[webapps] Rail Pass Management System 1.0 - Time-Based SQL Injection": "https://www.exploit-db.com/exploits/51790",
+        "[webapps] Wordpress Seotheme - Remote Code Execution Unauthenticated": "https://www.exploit-db.com/exploits/51789",
+        "[webapps] Wordpress Augmented-Reality - Remote Code Execution Unauthenticated": "https://www.exploit-db.com/exploits/51788",
+        "[dos] Elasticsearch - StackOverflow DoS": "https://www.exploit-db.com/exploits/51787",
+        "[remote] Zyxel zysh - Format string": "https://www.exploit-db.com/exploits/51786",
+        "[webapps] Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting (XSS) (Authenticated)": "https://www.exploit-db.com/exploits/51785"
+    },
+    "Trustwave Blog": {
+        "10 Key Steps to Enhance Mobile Application Security in 2024": "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/10-key-steps-to-enhance-mobile-application-security-in-2024/"
+    },
+    "Files ≈ Packet Storm": {
+        "Gentoo Linux Security Advisory 202402-11": "https://packetstormsecurity.com/files/177072/glsa-202402-11.txt",
+        "Debian Security Advisory 5618-1": "https://packetstormsecurity.com/files/177071/dsa-5618-1.txt",
+        "Faraday 5.1.0": "https://packetstormsecurity.com/files/177070/faraday-5.1.0.tar.gz",
+        "IBM i Access Client Solutions Remote Credential Theft": "https://packetstormsecurity.com/files/177069/IBMI_ACCESS_CLIENT_REMOTE_CREDENTIAL_THEFT_CVE-2024-22318.txt",
+        "Ubuntu Security Notice USN-6628-1": "https://packetstormsecurity.com/files/177068/USN-6628-1.txt",
+        "Red Hat Security Advisory 2024-0764-03": "https://packetstormsecurity.com/files/177067/RHSA-2024-0764-03.txt",
+        "Red Hat Security Advisory 2024-0760-03": "https://packetstormsecurity.com/files/177066/RHSA-2024-0760-03.txt",
+        "Red Hat Security Advisory 2024-0759-03": "https://packetstormsecurity.com/files/177065/RHSA-2024-0759-03.txt",
+        "Ubuntu Security Notice USN-6625-2": "https://packetstormsecurity.com/files/177064/USN-6625-2.txt",
+        "Red Hat Security Advisory 2024-0758-03": "https://packetstormsecurity.com/files/177063/RHSA-2024-0758-03.txt",
+        "Red Hat Security Advisory 2024-0757-03": "https://packetstormsecurity.com/files/177062/RHSA-2024-0757-03.txt",
+        "Red Hat Security Advisory 2024-0756-03": "https://packetstormsecurity.com/files/177061/RHSA-2024-0756-03.txt",
+        "Red Hat Security Advisory 2024-0755-03": "https://packetstormsecurity.com/files/177060/RHSA-2024-0755-03.txt",
+        "Red Hat Security Advisory 2024-0754-03": "https://packetstormsecurity.com/files/177059/RHSA-2024-0754-03.txt",
+        "Ubuntu Security Notice USN-6627-1": "https://packetstormsecurity.com/files/177058/USN-6627-1.txt",
+        "Red Hat Security Advisory 2024-0753-03": "https://packetstormsecurity.com/files/177057/RHSA-2024-0753-03.txt",
+        "Red Hat Security Advisory 2024-0752-03": "https://packetstormsecurity.com/files/177056/RHSA-2024-0752-03.txt",
+        "Red Hat Security Advisory 2024-0751-03": "https://packetstormsecurity.com/files/177055/RHSA-2024-0751-03.txt",
+        "Red Hat Security Advisory 2024-0750-03": "https://packetstormsecurity.com/files/177054/RHSA-2024-0750-03.txt",
+        "Red Hat Security Advisory 2024-0749-03": "https://packetstormsecurity.com/files/177053/RHSA-2024-0749-03.txt",
+        "Advanced Page Visit Counter 1.0 Cross Site Scripting": "https://packetstormsecurity.com/files/177052/apvc10-xss.txt",
+        "Red Hat Security Advisory 2024-0748-03": "https://packetstormsecurity.com/files/177051/RHSA-2024-0748-03.txt",
+        "Red Hat Security Advisory 2024-0746-03": "https://packetstormsecurity.com/files/177050/RHSA-2024-0746-03.txt",
+        "Red Hat Security Advisory 2024-0745-03": "https://packetstormsecurity.com/files/177049/RHSA-2024-0745-03.txt",
+        "Red Hat Security Advisory 2024-0728-03": "https://packetstormsecurity.com/files/177048/RHSA-2024-0728-03.txt"
+    },
+    "darkreading": {
+        "Ransomware Groups Claim Hits on Hyundai Motor Europe and a California Union": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-groups-black-basta-lockbit-hit-hyundai-california-seiu-union",
+        "CISO Corner: DoD Regs, Neurodiverse Talent &amp; Tel Aviv's Light Rail": "https://www.darkreading.com/cybersecurity-operations/ciso-corner-dod-regs-neurodiverse-talent-tel-aviv-light-rail",
+        "MacOS Targeted by New Backdoor Linked to ALPHV Ransomware": "https://www.darkreading.com/threat-intelligence/macos-targeted-by-new-backdoor-linked-to-alphv-ransomware",
+        "Deepfake Democracy: AI Technology Complicates Election Security": "https://www.darkreading.com/application-security/deepfake-democracy-ai-technology-election-security",
+        "Middle East Cybersecurity Teams Want More Budget": "https://www.darkreading.com/cybersecurity-operations/middle-east-cybersecurity-teams-face-insufficient-budgets",
+        "Kenya Detected Over 1B Cyber Threats in Q4": "https://www.darkreading.com/cyberattacks-data-breaches/kenya-detected-over-one-billion-cyber-threats-in-q4",
+        "How 'Big 4' Nations' Cyber Capabilities Threaten the West": "https://www.darkreading.com/vulnerabilities-threats/how-big-4-nations-cyber-capabilities-threaten-the-west"
+    },
+    "obaby@mars": {
+        "祝大家新年快乐": "https://h4ck.org.cn/2024/02/15438"
+    },
+    "吾爱破解论坛": {
+        "​（图作者 | @Aoemax）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140060&idx=1&sn=1d05f5239378b38896b9758ee68b229f&chksm=bd50bf888a27369e646358a1eb2ece650a6433480894482f4d8323a350e07d138b419d391f43&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "预付全款新模式上线！欢迎高质量课程及优秀讲师入驻看雪课程平台": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=1&sn=5acdde6271f4013e24a20474b9a0ea60&chksm=b18d6f7486fae6624b71950bde26ac0a2a68f5407583f4ac34d4233e5dbcc1c969ebd4558c51&scene=58&subscene=0#rd",
+        "CVE-2022-0847 dirtypipe漏洞复现": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=2&sn=22aca750989aae8fbb450c1e1766314a&chksm=b18d6f7486fae66295e12b94038872a1bf2bf01daefd7bcbcd8d908724482e46cc23b554d1da&scene=58&subscene=0#rd",
+        "除夕快乐！福启新岁·万事顺遂": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542078&idx=3&sn=ca47c3170f253f2ae4dccdcd7554e32e&chksm=b18d6f7486fae662f2d3f81348f3651497fb1b67fc4cc057a7cb881e59226111ed232f654d58&scene=58&subscene=0#rd"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "研究发现政治扭曲了道德判断和宽容": "https://www.solidot.org/story?sid=77339",
+        "Windows 版 iTunes 被分拆成多个应用": "https://www.solidot.org/story?sid=77338",
+        "巴基斯坦在选举日断网断手机": "https://www.solidot.org/story?sid=77337"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【技巧】开源情报调查从哪里开始-10个切入点": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142082&idx=1&sn=ad3330cece510bc9a7f0bf2b01b1f825&chksm=f1af40f8c6d8c9eed1a5b119cb454e1544a899b42d07a13e0a58e34cbc6746675cc9288c915a&scene=58&subscene=0#rd",
+        "【生活】有记忆的互联网-云南游记": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142082&idx=2&sn=5e5c79481da4c7064be8ed8bf34abb5e&chksm=f1af40f8c6d8c9eea0798cd11e33695b85632ae907be8d2b3d3c3a0a2cb72b830af17a801c76&scene=58&subscene=0#rd"
+    },
+    "白帽100安全攻防实验室": {
+        "白帽100祝大家除夕快乐🎉": "https://mp.weixin.qq.com/s?__biz=MzIxMDYyNTk3Nw==&mid=2247514820&idx=1&sn=deb705c93267be13cd32f1cca13ba641&chksm=97634e12a014c7047a0bb1edd2badb385acc68dcdf4467a3d295ce1cd3fa3da0ca2b7ac84feb&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "龙行龘龘 | 除夕大年夜，网安行业贺新春，给您拜年了！": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=1&sn=9354ad9c8e2c239f49f3f2881b9c9854&chksm=8b5988a7bc2e01b1281ddc2e62bb1204536e088faa333dd33f10b43cef0568e4e3253f13c7b6&scene=58&subscene=0#rd",
+        "家人齐欢聚 守岁庆团圆": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664204894&idx=2&sn=2c6d641bd7cd47b7b67a8e12e33ad4d3&chksm=8b5988a7bc2e01b135e48599a35cb9bdb51e53cc1cc67204d3bf9201b7035fbba4494952ea15&scene=58&subscene=0#rd"
+    },
+    "奇安信威胁情报中心": {
+        "每周高级威胁情报解读(2024.02.02~02.08)": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247509555&idx=1&sn=61e108bdad3bc5207bae00fa6d2d6b04&chksm=ea665144dd11d852c21a231b257a33f6020eb550491f1f5fab506d94da89b686e47360833f68&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "用过 Vision Pro 的投资人，说苹果会让元宇宙「再次伟大」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033190&idx=1&sn=4995771eb618b810714d3d104fe292b8&chksm=7e576f504920e64641fbe790e023953e90bd4c1c6e5b93db19ca56e7892c4d1dc12f7a2dff1c&scene=58&subscene=0#rd",
+        "传字节春节红包最高 3688 元；可口可乐推「香辣味」；谷歌 Bard 更名 Gemini，推独立 App 开始收费｜极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033158&idx=1&sn=4f9d17b37e44171d58a78cbccb03dcab&chksm=7e576f704920e666d4e5d0ac009b4e5596be3e1568dd673137149cccdb928e054a7e445160ab&scene=58&subscene=0#rd"
+    },
+    "山石网科安全技术研究院": {
+        "🐲瑞龙贺岁，恭贺新春🐲": "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247504888&idx=1&sn=6dbf46e274ac9a44671c6a8baaac444d&chksm=fa520646cd258f50e9bb58467c70f96741dfeb17c0b2401f38baacea9e0d5fb547760bb3db2b&scene=58&subscene=0#rd"
+    },
+    "网安寻路人": {
+        "法国CNIL：可公开获取的数据开放与再利用（全文翻译）": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501135&idx=1&sn=8093957b7d14779e5714c88743f96437&chksm=97e978a5a09ef1b31b7742e3e2d9cd4c17e24d5280a3e483bf928ca42d4b2e4f6572a9d220fd&scene=58&subscene=0#rd"
+    },
+    "星阑科技": {
+        "龙舞乾坤，星阑科技恭贺大家新春大吉": "https://mp.weixin.qq.com/s?__biz=Mzg5NjEyMjA5OQ==&mid=2247498966&idx=1&sn=13a64e6255cdd57306ee44716f2b6cec&chksm=c007514af770d85c856d5519299c506a7c47cf6c0afdd46ea272c0d599fa91d7b9d744dce001&scene=58&subscene=0#rd"
+    },
+    "网络空间安全科学学报": {
+        "《网络空间安全科学学报》致谢编委、审稿专家": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=1&sn=05bd51cac35ff45d0ed4dd954abf7abd&chksm=e9bfecbddec865aba961f01dda513905cc686f1c45763ec9ca132150e7220b17f0094c03a221&scene=58&subscene=0#rd",
+        "《网络空间安全科学学报》祝您龙行龘龘，前程朤朤": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247497731&idx=2&sn=ae173e7723d05b124cb5fa532aba3931&chksm=e9bfecbddec865ab4d47010daf6f74ac0c0b3d4dad59aad1e46a8b7e86b37a8f9744d095d103&scene=58&subscene=0#rd"
+    },
+    "卢昌海个人主页": {
+        "最新微博：2024 年 2 月 8 日": "https://www.changhai.org/articles/miscellaneous/blog/202402.php#latest"
+    },
+    "鸟窝": {
+        "一些笔记工具工具以及memos介绍": "https://colobu.com/2024/02/10/some-note-taking-tools-and-memos/"
+    },
+    "中文博客 on 范叶亮 | Leo Van": {
+        "我们需要多少种编程语言 (How Many Programming Languages do We Need)": "https://leovan.me/cn/2024/02/how-many-programming-languages-do-we-need/"
+    },
+    "维基萌": {
+        "除夕夜更新了一下博客的代码，非常激进的增加了页面缓存功能，结果差点起不来博客程序了...😂": "https://www.wikimoe.com/post/65c62cddd015c023f40f3d83"
+    },
+    "61’s life": {
+        "20240209 除夕": "http://61.life/2024/0209"
+    },
+    "复旦白泽战队": {
+        "复旦白泽祝大家龙年快乐！": "https://mp.weixin.qq.com/s?__biz=MzU4NzUxOTI0OQ==&mid=2247488729&idx=1&sn=f3a491886ae8702005192265a2583c13&chksm=fdeb90a7ca9c19b16d4d3a20e494fff20302b4f9456898d0772208b20c913b8abc6f8f733025&scene=58&subscene=0#rd"
+    },
+    "二丫讲梵": {
+        "学习周刊-总第145期-2024年第06周": "https://wiki.eryajf.net/pages/bcdf69/"
+    },
+    "Eltrac's": {
+        "我的思绪像河流": "https://www.guhub.cn/blog/i-think-like-a-river"
+    },
+    "游研社": {
+        "30万销量，没能让这家国产开发商撑过新年": "https://www.yystv.cn/p/11522",
+        "零宣发做到Steam新品节双榜第一，这款“奇幻塔科夫”成了新黑马": "https://www.yystv.cn/p/11521"
+    },
+    "JustZht's EchoChamber": {
+        "2024.2.9": "https://www.justzht.com/2024-2-9/"
+    },
+    "乔克叔叔的床边故事": {
+        "君の名は希望": "https://lifeodyssey.github.io/posts/8c33e681.html"
+    },
+    "Markon Review": {
+        "很主观的春节游玩推荐，以及分享我们找游戏的习惯": "https://markonreview.com/2024/02/09/our-very-first-podcast-talked-about-what-to-play-this-holiday/"
+    },
+    "初之音": {
+        "《孤独摇滚！》一揽子开箱": "https://www.himiku.com/archives/bocchi-the-rock-3-discs.html"
+    },
+    "戴兜的小屋": {
+        "Hi! 2024": "https://daidr.me/archives/website-1150.html"
+    },
+    "ROYWANG": {
+        "癸卯年度总结": "https://roy.wang/renyin-year/"
+    }
+}
