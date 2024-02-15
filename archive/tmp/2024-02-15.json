@@ -1,0 +1,201 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-02-14 Review": "http://www.sec-wiki.com/?2024-02-14"
+    },
+    "Trustwave Blog": {
+        "Understanding Why Supply Chain Security is Often Unheeded": "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/understanding-why-supply-chain-security-is-often-unheeded/"
+    },
+    "Sandfly Security Blog RSS Feed": {
+        "Sandfly Version 5.0 Is Now Available!": "https://sandflysecurity.com/blog/sandfly-version-5-0-is-now-available"
+    },
+    "Security Boulevard": {
+        "Network Security: A Top Priority for Healthcare Organizations": "https://securityboulevard.com/2024/02/network-security-a-top-priority-for-healthcare-organizations/",
+        "5 Reasons You Should See a DSPM This Valentine’s Day": "https://securityboulevard.com/2024/02/5-reasons-you-should-see-a-dspm-this-valentines-day/",
+        "USENIX Security ’23 – What Are the Chances? Explaining the Epsilon Parameter in Differential Privacy": "https://securityboulevard.com/2024/02/usenix-security-23-what-are-the-chances-explaining-the-epsilon-parameter-in-differential-privacy/",
+        "An Affordable and Encrypted Email and File sharing Solution for Small and Medium CPAs & Tax Preparers": "https://securityboulevard.com/2024/02/an-affordable-and-encrypted-email-and-file-sharing-solution-for-small-and-medium-cpas-tax-preparers/",
+        "An Affordable, Encrypted Email and File Sharing Solution for FERPA Compliance": "https://securityboulevard.com/2024/02/an-affordable-encrypted-email-and-file-sharing-solution-for-ferpa-compliance/",
+        "Randall Munroe’s XKCD ‘Sphere Tastiness’": "https://securityboulevard.com/2024/02/randall-munroes-xkcd-sphere-tastiness/",
+        "ALERT: Thieves❤️Wi-Fi Camera Jammers": "https://securityboulevard.com/2024/02/wi-fi-camera-jammer-edina-richixbw/",
+        "Initial Access Broker Landscape in NATO Member States on Exploit Forum": "https://securityboulevard.com/2024/02/initial-access-broker-landscape-in-nato-member-states-on-exploit-forum/",
+        "Customer Story | Plainfield Community School Corporation Protects Its Students In Google Workspace With Cloud Monitor": "https://securityboulevard.com/2024/02/customer-story-plainfield-community-school-corporation-protects-its-students-in-google-workspace-with-cloud-monitor/",
+        "A Free Decryptor Tool for Rhysida Ransomware is Available": "https://securityboulevard.com/2024/02/a-free-decryptor-tool-for-rhysida-ransomware-is-available/"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Statamic CMS Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177133&utm_source=rss&utm_medium=rss",
+        "Adapt CMS 3.0.3 Cross Site Scripting / Shell Upload exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177132&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-25092 exploit": "https://sploitus.com/exploit?id=91BA083C-59BA-5C5B-AC9F-140983035E66&utm_source=rss&utm_medium=rss",
+        "Exploit for PHP External Variable Modification in Juniper Junos exploit": "https://sploitus.com/exploit?id=C33844FD-4BF9-5B39-92C7-E2F9E3DC40AC&utm_source=rss&utm_medium=rss",
+        "Exploit for Vulnerability in Vm2 Project Vm2 exploit": "https://sploitus.com/exploit?id=1513411A-68FA-5179-96F9-A160D36B19FF&utm_source=rss&utm_medium=rss",
+        "Exploit for Path Traversal in Gl-Inet Gl-Ax1800 Firmware exploit": "https://sploitus.com/exploit?id=0AF4A4DE-94AE-502A-91F5-257D680A000C&utm_source=rss&utm_medium=rss"
+    },
+    "Hex Rays": {
+        "Igor’s Tip of the Week #175: IDB work directory": "https://hex-rays.com/blog/igors-tip-of-the-week-175-idb-work-directory/"
+    },
+    "InfoSec Write-ups - Medium": {
+        "THM — Opacity": "https://infosecwriteups.com/thm-opacity-6e7b487963e0?source=rss----7b722bfd1b8d---4"
+    },
+    "Files ≈ Packet Storm": {
+        "Debian Security Advisory 5621-1": "https://packetstormsecurity.com/files/177134/dsa-5621-1.txt",
+        "Statamic CMS Cross Site Scripting": "https://packetstormsecurity.com/files/177133/SA-20240212-0.txt",
+        "Adapt CMS 3.0.3 Cross Site Scripting / Shell Upload": "https://packetstormsecurity.com/files/177132/adaptcms303-shellxss.txt",
+        "Debian Security Advisory 5620-1": "https://packetstormsecurity.com/files/177131/dsa-5620-1.txt",
+        "OX App Suite 7.10.6 Cross Site Scirpting / Denial Of Service": "https://packetstormsecurity.com/files/177130/OXAS-ADV-2023-0007.txt",
+        "Ubuntu Security Notice USN-6608-2": "https://packetstormsecurity.com/files/177129/USN-6608-2.txt",
+        "Ubuntu Security Notice USN-6626-2": "https://packetstormsecurity.com/files/177128/USN-6626-2.txt",
+        "Ubuntu Security Notice USN-6629-2": "https://packetstormsecurity.com/files/177127/USN-6629-2.txt",
+        "Google Android Passkey Deletion / Confusion": "https://packetstormsecurity.com/files/177126/androidpasskey-delete.txt",
+        "Ubuntu Security Notice USN-6629-1": "https://packetstormsecurity.com/files/177125/USN-6629-1.txt",
+        "Red Hat Security Advisory 2024-0814-03": "https://packetstormsecurity.com/files/177124/RHSA-2024-0814-03.txt",
+        "Red Hat Security Advisory 2024-0811-03": "https://packetstormsecurity.com/files/177123/RHSA-2024-0811-03.txt",
+        "Red Hat Security Advisory 2024-0808-03": "https://packetstormsecurity.com/files/177122/RHSA-2024-0808-03.txt",
+        "Red Hat Security Advisory 2024-0807-03": "https://packetstormsecurity.com/files/177121/RHSA-2024-0807-03.txt",
+        "Red Hat Security Advisory 2024-0806-03": "https://packetstormsecurity.com/files/177120/RHSA-2024-0806-03.txt",
+        "Red Hat Security Advisory 2024-0805-03": "https://packetstormsecurity.com/files/177119/RHSA-2024-0805-03.txt",
+        "Red Hat Security Advisory 2024-0804-03": "https://packetstormsecurity.com/files/177118/RHSA-2024-0804-03.txt",
+        "Red Hat Security Advisory 2024-0801-03": "https://packetstormsecurity.com/files/177117/RHSA-2024-0801-03.txt",
+        "Red Hat Security Advisory 2024-0800-03": "https://packetstormsecurity.com/files/177116/RHSA-2024-0800-03.txt",
+        "Red Hat Security Advisory 2024-0799-03": "https://packetstormsecurity.com/files/177115/RHSA-2024-0799-03.txt",
+        "Red Hat Security Advisory 2024-0798-03": "https://packetstormsecurity.com/files/177114/RHSA-2024-0798-03.txt",
+        "Red Hat Security Advisory 2024-0741-03": "https://packetstormsecurity.com/files/177113/RHSA-2024-0741-03.txt",
+        "Red Hat Security Advisory 2024-0740-03": "https://packetstormsecurity.com/files/177112/RHSA-2024-0740-03.txt",
+        "Red Hat Security Advisory 2024-0735-03": "https://packetstormsecurity.com/files/177111/RHSA-2024-0735-03.txt",
+        "Ubuntu Security Notice USN-6634-1": "https://packetstormsecurity.com/files/177110/USN-6634-1.txt"
+    },
+    "Tenable Blog": {
+        "Pig Butchering Scam: From Tinder and TikTok to WhatsApp and Telegram, How Scammers Are Stealing Millions in a Long Con": "https://www.tenable.com/blog/pig-butchering-scam-tinder-tiktok-whatsapp-telegram-scammers-steal-millions",
+        "Pig Butchering Scam: How Bitcoin, Ethereum, Litecoin and Spot Gold (XAUUSD) Investments Are Used in Romance Scams to Steal Hundreds of Millions": "https://www.tenable.com/blog/pig-butchering-scam-bitcoin-ethereum-litecoin-spot-gold-xauusd-romance-scam"
+    },
+    "darkreading": {
+        "Microsoft, OpenAI: Nation-States Are Weaponizing AI in Cyberattacks": "https://www.darkreading.com/threat-intelligence/microsoft-openai-nation-states-are-weaponizing-ai-in-cyberattacks",
+        "Prudential Files Voluntary Breach Notice With SEC": "https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec",
+        "Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App": "https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app",
+        "BumbleBee Malware Buzzes Back on the Scene After 4-Month Hiatus": "https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-buzzes-back-4-month-hiatus",
+        "We're at a Pivotal Moment for AI and Cybersecurity": "https://www.darkreading.com/vulnerabilities-threats/pivotal-moment-ai-and-cybersecurity",
+        "Hamas Cyberattacks Ceased After the Oct. 7 Terror Attack. But Why?": "https://www.darkreading.com/threat-intelligence/hamas-cyberattacks-ceased-after-october-7-attack-but-why"
+    },
+    "HackerNoon": {
+        "AI's Next Stop: A Copyright Showdown": "https://hackernoon.com/ais-next-stop-a-copyright-showdown?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security Contexts: Related Work": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-contexts-related-work?source=rss",
+        "I Spent 3 Years Investigating What Happens to the Kids of Rutherford: Here's What I Uncovered": "https://hackernoon.com/i-spent-3-years-investigating-what-happens-to-the-kids-of-rutherford-heres-what-i-uncovered?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security: Experimental Result": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-experimental-result?source=rss",
+        "The Noonification: How to Style HTML Radio Buttons: A Step-by-Step Guide (2/14/2024)": "https://hackernoon.com/2-14-2024-noonification?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security Contexts: Experimental Setup": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-contexts-experimental-setup?source=rss",
+        "Sensors and Edge-Sensing Devices: The Ways They Can Improve Our Lives": "https://hackernoon.com/sensors-and-edge-sensing-devices-the-ways-they-can-improve-our-lives?source=rss",
+        "130 Stories To Learn About Politics": "https://hackernoon.com/130-stories-to-learn-about-politics?source=rss",
+        "85 Stories To Learn About Regulation": "https://hackernoon.com/85-stories-to-learn-about-regulation?source=rss",
+        "158 Stories To Learn About News": "https://hackernoon.com/158-stories-to-learn-about-news?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: References": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-references?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: Discussion": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-discussion?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: Experiment Results": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-experiment-results?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: Methodology": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-methodology?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: Related Work": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-related-work?source=rss",
+        "Is GPT Powerful Enough to Analyze the Emotions of Memes?: Abstract & Intro": "https://hackernoon.com/is-gpt-powerful-enough-to-analyze-the-emotions-of-memes-abstract-and-intro?source=rss",
+        "HOLEPUNCH UNVEILS GROUNDBREAKING OPEN-SOURCE PEER-TO-PEER APP DEVELOPMENT PLATFORM: PEAR RUNTIME": "https://hackernoon.com/holepunch-unveils-groundbreaking-open-source-peer-to-peer-app-development-platform-pear-runtime?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security Contexts: Proposed Method": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-contexts-proposed-method?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security Contexts: Motivating Example": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-contexts-motivating-example?source=rss",
+        "Automating the Correctness Assessment of AI-generated Code for Security Contexts: Abstract & Intro": "https://hackernoon.com/automating-the-correctness-assessment-of-ai-generated-code-for-security-contexts-abstract-and-intro?source=rss"
+    },
+    "Trail of Bits Blog": {
+        "Cloud cryptography demystified: Amazon Web Services": "https://blog.trailofbits.com/2024/02/14/cloud-cryptography-demystified-amazon-web-services/"
+    },
+    "Black Hills Information Security": {
+        "Talkin’ About Infosec News – 2/14/2024": "https://www.blackhillsinfosec.com/talkin-about-infosec-news-2-14-2024/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "美国制裁了我们几家网络安全公司？网络安全的含金量还在上升......": "https://www.freebuf.com/news/391847.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "IBM 诞生一百年": "https://www.solidot.org/story?sid=77357",
+        "科学家发现体积最小的恒星": "https://www.solidot.org/story?sid=77356",
+        "Mozilla 裁员 60 人": "https://www.solidot.org/story?sid=77355"
+    },
+    "吾爱破解论坛": {
+        "【2024春节】解题领红包活动排行榜（初五 2/14）": "https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651140072&idx=1&sn=bea9c852cfcf698ee27fdc05c405a5bb&chksm=bd50bfbc8a2736aaadf0065868a2945fe16b302b57ededd321d6f406339e43361a01fc44d235&scene=58&subscene=0#rd"
+    },
+    "奇安信 CERT": {
+        "微软2024年2月补丁日多个产品安全漏洞风险通告": "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247500531&idx=1&sn=2add6d24dc79496f1c84c78984ea02f0&chksm=fe79e66bc90e6f7d7e02e1d3d9e0d945e9378c7bd4d2d72a2113d0ab455756831ca265883f70&scene=58&subscene=0#rd"
+    },
+    "黑海洋 - WIKI": {
+        "谈谈微信授权下的安全风险": "https://blog.upx8.com/4042",
+        "windows取证之导出微信&amp;QQ聊天记录": "https://blog.upx8.com/4040",
+        "如何发现网站漏洞？网站安全漏洞和恶意软件在线扫描的分析工具": "https://blog.upx8.com/4039",
+        "Yida益达app-开源多平台聚合神器 追剧 小说 漫画 听书": "https://blog.upx8.com/4038",
+        "半个神器👉一键文本转视频的工具": "https://blog.upx8.com/4037",
+        "装逼生成器 在线装逼制图神器": "https://blog.upx8.com/4036"
+    },
+    "看雪学苑": {
+        "V8 hole 类型漏洞利用总结": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542083&idx=1&sn=058feb17f5f0971243fd622d348a85af&chksm=b18d508986fad99f8d89d117b092c869536f30bbd6506e447e03ef0c2da8509597ef81fa0e3d&scene=58&subscene=0#rd",
+        "新年上新！CTF Pwn 入门之旅：Linux pwn 探索篇": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458542083&idx=2&sn=b54c53feaf8867ce03d8bb225c39a3d9&chksm=b18d508986fad99f062de376ef2d73ed97de33d9d491c562fba43a952f9f6b335f666ac6cc93&scene=58&subscene=0#rd"
+    },
+    "Coco413's Blog": {
+        "安全会议PDF读后随笔": "https://www.coco413.com/archives/145/"
+    },
+    "情报分析师": {
+        "【春节特辑】11款开源情报检索工具大盘点": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650545896&idx=1&sn=c11e7fd027eef7afc1bd1697c3f75c1c&chksm=871130a3b066b9b522e92f829f587cb80cc3c4d7133c8c14ef2a874bcc4e090f73b2e1f06b80&scene=58&subscene=0#rd",
+        "《军武专刊》——锐化您的军武视角，掌握全球防务动态": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650545896&idx=2&sn=d2a328e6a6ab5fe0117d273ac06c6eb4&chksm=871130a3b066b9b5516a84e7ce92a318fe50fd38f260d3b441254ed6e9fa8d1ae19f1d3440b7&scene=58&subscene=0#rd"
+    },
+    "网安寻路人": {
+        "OECD《为制定人工智能事件定义而进行的评估》（全文翻译）": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247501208&idx=1&sn=1619bee9dc735c459f483d46f0fa039b&chksm=97e97872a09ef16444203fad7593f3f8372c7424de7781925fc936b10bf76949a308e249ed2c&scene=58&subscene=0#rd"
+    },
+    "Checkmarx.com": {
+        "From Lines of Code to Cloud Security: Navigating the Future of Secure Development": "https://checkmarx.com/blog/from-lines-of-code-to-cloud-security-navigating-the-future-of-secure-development/"
+    },
+    "极客公园": {
+        "OpenAI 测试 ChatGPT「记忆」功能；微信「摇一摇」下线；拜登开通 TikTok 账号 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653033620&idx=1&sn=1b76b389f047e36964daa498c9e92086&chksm=7e5769224920e034f497c527312fa7ae65a59951578e1a3a02ff2d8d7a31eb0b2727fd65a23f&scene=58&subscene=0#rd"
+    },
+    "深信服千里目安全技术中心": {
+        "【安全通告】微软补丁日安全通告|2月份": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247522112&idx=1&sn=d726094f1b36c41f05c8a58835adb223&chksm=ce461c50f9319546d9b71a9d768e629a547a793c02bda79b3504b5c75c3af72074c105446fe1&scene=58&subscene=0#rd"
+    },
+    "极道": {
+        "NAD+正成为最新的名人生物黑客流行趋势": "https://www.jdon.com/72468.html",
+        "Python矩阵中的垂直串联": "https://www.jdon.com/72467.html",
+        "Java中Vaadin框架简介": "https://www.jdon.com/72466.html",
+        "Spring Security中的SecurityContext和SecurityContextHolder": "https://www.jdon.com/72465.html",
+        "Go中泛型和反射比较指南": "https://www.jdon.com/72464.html",
+        "空间结构性胜过时间性": "https://www.jdon.com/72463.html"
+    },
+    "火绒安全": {
+        "初五 | 财神到，喜气绕": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247517521&idx=1&sn=9aa8e6abdf72da6596285f08abc3c6ae&chksm=eb705b6edc07d278472e5bd600a3155b2afdc026dfa792941c3e2565bcf3831bc0b8f850809b&scene=58&subscene=0#rd"
+    },
+    "xulihang's blog": {
+        "改善视力的替代疗法": "https://blog.xulihang.me/alternative-medicine-for-improving-eyesight/"
+    },
+    "est の 输入输出": {
+        "为啥开车加塞、插队的特别多": "https://blog.est.im/2024/stdin-02"
+    },
+    "维基萌": {
+        "哇！《我推的孩子》这款手办即使还是原型，就已经如此温馨了！期待！": "https://www.wikimoe.com/post/y3exbpls"
+    },
+    "甜欣屋": {
+        "硅谷清华杀妻案，陈会无罪释放吗？": "https://tcxx.info/notion/950.html",
+        "4个月50万用户，复盘Pika的运营策略": "https://tcxx.info/diary/944.html"
+    },
+    "Eltrac's": {
+        "Manjaro 桌面折腾记": "https://www.guhub.cn/blog/meeting-manjaro"
+    },
+    "游研社": {
+        "“肉腿”的边界": "https://www.yystv.cn/p/11524"
+    },
+    "rxliuli blog": {
+        "週報 2024-02-11": "https://blog.rxliuli.com/p/a467b7c4780c4d7ca0f54341bff770d7/"
+    },
+    "陈少文的网站": {
+        "Ops 新增 Server 及 UI 服务": "https://www.chenshaowen.com/blog/ops-added-server-and-ui-services.html"
+    },
+    "emperinter": {
+        "Invalid bundle. Because your app supports Multitasking on iPad, you need to include the LaunchScreen.storyboard launch storyboard file in your com.emperinter.pastey bundle. Use UILaunchScreen instead if the app’s MinimumOSVersion is 14 or higher and you prefer to configure the launch screen without storyboards.": "https://www.emperinter.info/2024/02/14/invalid-bundle-because-your-app-supports-multitasking-on-ipad-you-need-to-include-the-launchscreen-storyboard-launch-storyboard-file-in-your-com-emperinter-pastey-bundle-use-uilaunchscreen-instead/"
+    },
+    "azhuge233's": {
+        "小米盒子 3S 刷机": "https://azhuge233.com/%e5%b0%8f%e7%b1%b3%e7%9b%92%e5%ad%90-3s-%e5%88%b7%e6%9c%ba/"
+    },
+    "Lei Mao's Log Book": {
+        "互动影像游戏": "https://leimao.github.io/essay/%E4%BA%92%E5%8A%A8%E5%BD%B1%E5%83%8F%E6%B8%B8%E6%88%8F/"
+    },
+    "Owen的博客": {
+        "Make - 独立创造者小书 读书笔记": "https://www.owenyoung.com/blog/books/make/",
+        "2024.02.15: 各种链接": "https://www.owenyoung.com/blog/journals/2024-02-15/"
+    },
+    "Shiroha白羽的博客": {
+        "Codeforces Round 913 (Div. 3)": "https://blog.mauve.icu/2024/02/14/acm/codeforces/CodeforcesRound913(Div.%203)/"
+    }
+}
