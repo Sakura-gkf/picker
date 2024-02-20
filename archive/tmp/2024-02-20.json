@@ -1,0 +1,219 @@
+{
+    "90Sec - 最新话题": {
+        "长期大量收WebShell，高价寻渗透大佬合作。有意者联系TG：@xxx9964": "https://forum.90sec.com/t/topic/2357"
+    },
+    "嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com": {
+        "安全动态回顾 | Google Play上出现多个被恶意软件感染的安卓应用    “大黄蜂”恶意软件攻击在中断4个月后回归": "https://www.4hou.com/posts/MK31",
+        "谷歌称其发现的大多数0 day漏洞背后都是间谍软件供应商": "https://www.4hou.com/posts/L13v"
+    },
+    "Files ≈ Packet Storm": {
+        "Gentoo Linux Security Advisory 202402-28": "https://packetstormsecurity.com/files/177192/glsa-202402-28.txt",
+        "Debian Security Advisory 5626-1": "https://packetstormsecurity.com/files/177191/dsa-5626-1.txt",
+        "Gentoo Linux Security Advisory 202402-27": "https://packetstormsecurity.com/files/177190/glsa-202402-27.txt",
+        "Proxmark3 4.18218 Custom Firmware": "https://packetstormsecurity.com/files/177189/proxmark3-4.18218.zip",
+        "Gentoo Linux Security Advisory 202402-26": "https://packetstormsecurity.com/files/177188/glsa-202402-26.txt",
+        "Microsoft Windows Defender / Backdoor_JS.Relvelshe.A Detection / Mitigation Bypass": "https://packetstormsecurity.com/files/177187/Windows_Defender_Backdoor_JS.Relvelshe.A_Detection_Mitigation_Bypass.txt",
+        "Microsoft Windows Defender / Trojan.Win32/Powessere.G VBScript Detection Bypass": "https://packetstormsecurity.com/files/177186/MICROSOFT_WINDOWS_DEFENDER_VBSCRIPT_TROJAN_MITIGATION_BYPASS.txt",
+        "Gentoo Linux Security Advisory 202402-25": "https://packetstormsecurity.com/files/177185/glsa-202402-25.txt",
+        "Gentoo Linux Security Advisory 202402-21": "https://packetstormsecurity.com/files/177184/glsa-202402-21.txt",
+        "InstantCMS 2.16.1 Cross Site Scripting": "https://packetstormsecurity.com/files/177183/instantcms2161-xss.txt",
+        "Gentoo Linux Security Advisory 202402-24": "https://packetstormsecurity.com/files/177182/glsa-202402-24.txt",
+        "Gentoo Linux Security Advisory 202402-23": "https://packetstormsecurity.com/files/177181/glsa-202402-23.txt",
+        "Gentoo Linux Security Advisory 202402-22": "https://packetstormsecurity.com/files/177180/glsa-202402-22.txt",
+        "SureMDM On-Premise CAPTCHA Bypass / User Enumeration": "https://packetstormsecurity.com/files/177179/suremdmonpremise-bypassenumerate.txt",
+        "Gentoo Linux Security Advisory 202402-20": "https://packetstormsecurity.com/files/177178/glsa-202402-20.txt",
+        "Online Library Management System 3 Password Reset": "https://packetstormsecurity.com/files/177177/olms3-passwordreset.txt",
+        "Gentoo Linux Security Advisory 202402-19": "https://packetstormsecurity.com/files/177176/glsa-202402-19.txt",
+        "Gentoo Linux Security Advisory 202402-18": "https://packetstormsecurity.com/files/177175/glsa-202402-18.txt",
+        "Gentoo Linux Security Advisory 202402-17": "https://packetstormsecurity.com/files/177174/glsa-202402-17.txt",
+        "Employee Management System 1.0 SQL Injection": "https://packetstormsecurity.com/files/177173/employeems10-sql.txt",
+        "Chrome chrome.pageCapture.saveAsMHTML() Extension API Blocked Origin Bypass": "https://packetstormsecurity.com/files/177172/GS20240219141210.tgz",
+        "Gentoo Linux Security Advisory 202402-16": "https://packetstormsecurity.com/files/177171/glsa-202402-16.txt",
+        "Gentoo Linux Security Advisory 202402-15": "https://packetstormsecurity.com/files/177170/glsa-202402-15.txt",
+        "WonderCMS 4.3.2 Cross Site Scripting / Remote Code Execution": "https://packetstormsecurity.com/files/177169/wondercms432-xssexec.txt",
+        "User Registration And Login And User Management System 3.1 SQL Injection": "https://packetstormsecurity.com/files/177168/urlums31-sql.txt"
+    },
+    "Security Boulevard": {
+        "Titanium and LogRhythm: Elevating Visibility into Cybersecurity Risks in Pakistan": "https://securityboulevard.com/2024/02/titanium-and-logrhythm-elevating-visibility-into-cybersecurity-risks-in-pakistan/",
+        "NSO Group and Its ‘MMS Fingerprint’ Attack": "https://securityboulevard.com/2024/02/nso-group-and-its-mms-fingerprint-attack/",
+        "Generative AI and Cybersecurity: The Impact on CISOs and Security Teams": "https://securityboulevard.com/2024/02/generative-ai-and-cybersecurity-the-impact-on-cisos-and-security-teams/",
+        "Automated remediation of exposed secrets: Pros and cons": "https://securityboulevard.com/2024/02/automated-remediation-of-exposed-secrets-pros-and-cons/",
+        "Google Initiative Aims to Boost AI for Cybersecurity": "https://securityboulevard.com/2024/02/google-initiative-aims-to-boost-ai-for-cybersecurity/",
+        "Join our new Escape community on Slack!": "https://securityboulevard.com/2024/02/join-our-new-escape-community-on-slack/",
+        "3 Ways the CTO Can Fortify the Organization in the Age of Generative AI": "https://securityboulevard.com/2024/02/3-ways-the-cto-can-fortify-the-organization-in-the-age-of-generative-ai/",
+        "Data Security: Beyond Threat Hunting to Monitoring Data Flow and User Behavior": "https://securityboulevard.com/2024/02/data-security-beyond-threat-hunting-to-monitoring-data-flow-and-user-behavior/",
+        "XSS Marks the Spot: Digging Up Vulnerabilities in ChatGPT": "https://securityboulevard.com/2024/02/xss-marks-the-spot-digging-up-vulnerabilities-in-chatgpt/",
+        "Demystifying JWT, OAuth, OIDC, and SAML: A Technical Guide": "https://securityboulevard.com/2024/02/demystifying-jwt-oauth-oidc-and-saml-a-technical-guide/"
+    },
+    "InfoSec Write-ups - Medium": {
+        "Missed IWCON 2023? Catch Recorded Expert Sessions Here.": "https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss----7b722bfd1b8d---4"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Wondercms 4.3.2 - XSS to Remote Code Execute Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39344&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177162&utm_source=rss&utm_medium=rss",
+        "Employee Management System v1 - &#039;email&#039; SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51803&utm_source=rss&utm_medium=rss",
+        "Employee Management System 1.0 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177173&utm_source=rss&utm_medium=rss",
+        "SureMDM On-premise < 6.31 - CAPTCHA Bypass User Enumeration Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39342&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender Bypass - Detection Mitigation Bypass Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39339&utm_source=rss&utm_medium=rss",
+        "Wondercms 4.3.2 - XSS to RCE exploit": "https://sploitus.com/exploit?id=EDB-ID:51805&utm_source=rss&utm_medium=rss",
+        "SureMDM On-Premise CAPTCHA Bypass / User Enumeration exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177179&utm_source=rss&utm_medium=rss",
+        "InstantCMS 2.16.1 Cross Site Scripting exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177183&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender - VBScript Detection Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:51802&utm_source=rss&utm_medium=rss",
+        "phpFox &lt; 4.8.13 - (redirect) PHP Object Injection Exploit exploit": "https://sploitus.com/exploit?id=EDB-ID:51799&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory &lt; 7.25.4 - Blind SQL Injection exploit": "https://sploitus.com/exploit?id=EDB-ID:51806&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Backdoor_JS.Relvelshe.A Detection / Mitigation Bypass exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177187&utm_source=rss&utm_medium=rss",
+        "Online Library Management System 3 Password Reset exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177177&utm_source=rss&utm_medium=rss",
+        "WonderCMS 4.3.2 Cross Site Scripting / Remote Code Execution exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177169&utm_source=rss&utm_medium=rss",
+        "SureMDM On-premise &lt; 6.31 - CAPTCHA Bypass User Enumeration exploit": "https://sploitus.com/exploit?id=EDB-ID:51804&utm_source=rss&utm_medium=rss",
+        "User Registration And Login And User Management System 3.1 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177168&utm_source=rss&utm_medium=rss",
+        "phpFox < 4.8.13 - (redirect) PHP Object Injection Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39337&utm_source=rss&utm_medium=rss",
+        "JFrog Artifactory < 7.25.4 - Blind SQL Injection Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39343&utm_source=rss&utm_medium=rss",
+        "Employee Management System v1 - (email) SQL Injection Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39341&utm_source=rss&utm_medium=rss",
+        "XAMPP - Buffer Overflow Exploit exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39338&utm_source=rss&utm_medium=rss",
+        "XAMPP - Buffer Overflow POC exploit": "https://sploitus.com/exploit?id=EDB-ID:51800&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender - VBScript Detection Bypass Vulnerability exploit": "https://sploitus.com/exploit?id=1337DAY-ID-39340&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender Bypass - Detection Mitigation Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:51801&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Detection Bypass Part 3 exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177164&utm_source=rss&utm_medium=rss",
+        "Microsoft Windows Defender / Trojan.Win32/Powessere.G VBScript Detection Bypass exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177186&utm_source=rss&utm_medium=rss"
+    },
+    "PortSwigger Research": {
+        "Top 10 web hacking techniques of 2023": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2023"
+    },
+    "白帽Wiki - 一个简单的wiki": {
+        "此内容已经被删除": "https://key08.com/index.php/2024/02/19/1829.html"
+    },
+    "Hacking Dream": {
+        "Role of Artificial Intelligence in Cybersecurity": "https://www.hackingdream.net/2024/02/role-of-artificial-intelligence-in-cyber-security.html"
+    },
+    "HackerNoon": {
+        "HTML: How to Resize an Image With CSS Container Queries!": "https://hackernoon.com/html-how-to-resize-an-image-with-css-container-queries?source=rss",
+        "How to Use Generative AI as Your Content Assistant": "https://hackernoon.com/how-to-use-generative-ai-as-your-content-assistant?source=rss",
+        "5 Practical Steps to Stop Supply Chain Attacks": "https://hackernoon.com/5-practical-steps-to-stop-supply-chain-attacks?source=rss",
+        "Write on Autonomy; Win from $9,000!": "https://hackernoon.com/write-on-autonomy-win-from-$9000?source=rss",
+        "The Noonification: A Robot Dreams of Love (2/19/2024)": "https://hackernoon.com/2-19-2024-noonification?source=rss",
+        "Gumroad Introduces Flexile and More: Gumroad Public Board Q1 2024 Meeting with Transcript": "https://hackernoon.com/gumroad-introduces-flexile-and-more-gumroad-public-board-q1-2024-meeting-with-transcript?source=rss",
+        "95 Stories To Learn About Product Manager": "https://hackernoon.com/95-stories-to-learn-about-product-manager?source=rss",
+        "53 Stories To Learn About Product Market Fit": "https://hackernoon.com/53-stories-to-learn-about-product-market-fit?source=rss",
+        "368 Stories To Learn About Product Management": "https://hackernoon.com/368-stories-to-learn-about-product-management?source=rss",
+        "How To Achieve Target Allocation Ratio (TAR) in Your Investment Portfolio": "https://hackernoon.com/how-to-achieve-target-allocation-ratio-tar-in-your-investment-portfolio?source=rss",
+        "Adapting to Google's Search Generative Engines (SGEs) - Part 1": "https://hackernoon.com/adapting-to-googles-search-generative-engines-sges-part-1?source=rss",
+        "$10 Helium Milestone: Helium Farm’s Increasing Impact on Helium Mining": "https://hackernoon.com/$10-helium-milestone-helium-farms-increasing-impact-on-helium-mining?source=rss",
+        "A Robot Dreams of Love": "https://hackernoon.com/a-robot-dreams-of-love?source=rss",
+        "How To Use Google Sheets in C#": "https://hackernoon.com/how-to-use-google-sheets-in-c?source=rss",
+        "Rape in the Metaverse and the Urgent Need for Legal Reform": "https://hackernoon.com/rape-in-the-metaverse-and-the-urgent-need-for-legal-reform?source=rss",
+        "What You Need to Know to Use xUnit in ASP.NET Core": "https://hackernoon.com/what-you-need-to-know-for-using-xunit-in-aspnet-core?source=rss",
+        "Avoiding Memory Leaks with Weak Events in C#": "https://hackernoon.com/avoiding-memory-leaks-with-weak-events-in-c?source=rss",
+        "Preferential Multi-Target Search in Indoor Environments using Semantic SLAM: Abstract & Intro": "https://hackernoon.com/preferential-multi-target-search-in-indoor-environments-using-semantic-slam-abstract-and-intro?source=rss",
+        "Preferential Multi-Target Search in Indoor Environments using Semantic SLAM: Related Work": "https://hackernoon.com/preferential-multi-target-search-in-indoor-environments-using-semantic-slam-related-work?source=rss",
+        "Semantic Mapping Framework": "https://hackernoon.com/semantic-mapping-framework?source=rss"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[webapps] JFrog Artifactory < 7.25.4 - Blind SQL Injection": "https://www.exploit-db.com/exploits/51806",
+        "[webapps] Wondercms 4.3.2 - XSS to RCE": "https://www.exploit-db.com/exploits/51805",
+        "[webapps] SureMDM On-premise < 6.31 - CAPTCHA Bypass User Enumeration": "https://www.exploit-db.com/exploits/51804",
+        "[webapps] Employee Management System v1 - 'email' SQL Injection": "https://www.exploit-db.com/exploits/51803",
+        "[local] Microsoft Windows Defender - VBScript Detection Bypass": "https://www.exploit-db.com/exploits/51802",
+        "[local] Microsoft Windows Defender Bypass - Detection Mitigation Bypass": "https://www.exploit-db.com/exploits/51801",
+        "[dos] XAMPP - Buffer Overflow POC": "https://www.exploit-db.com/exploits/51800",
+        "[webapps] phpFox < 4.8.13 - (redirect) PHP Object Injection Exploit": "https://www.exploit-db.com/exploits/51799"
+    },
+    "Offensive OSINT": {
+        "Offensive OSINT s05e04 - Open Source Surveillance - Username search": "https://www.offensiveosint.io/offensive-osint-s05e04-open-source-surveillance-username-search/"
+    },
+    "Intigriti": {
+        "Security testing for eCommerce websites and retailers": "https://blog.intigriti.com/2024/02/19/security-testing-ecommerce-websites/"
+    },
+    "darkreading": {
+        "Name That Toon: Keys to the Kingdom": "https://www.darkreading.com/application-security/name-that-toon-keys-to-the-kingdom",
+        "NSO Group Adds 'MMS Fingerprinting' Zero-Click Attack to Spyware Arsenal": "https://www.darkreading.com/application-security/nso-group-adds-mms-fingerprinting-zero-click-attack-spyware-arsenal",
+        "Q&amp;A: The Cybersecurity Training Gap in Industrial Networks": "https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments"
+    },
+    "安全牛": {
+        "融合创新，加速增长！Fortinet发布2023第四季度及全年财报": "https://www.aqniu.com/vendor/102601.html",
+        "数字取证的艺术：如何揭开网络犯罪的真相？": "https://www.aqniu.com/homenews/102598.html",
+        "国家网信办发布第四批深度合成服务算法备案信息公告": "https://www.aqniu.com/industry/102596.html",
+        "新春阅读推荐 | 安全牛2023年度文章精选100篇": "https://www.aqniu.com/industry/102593.html",
+        "实施零信任架构时高级管理层应该考虑什么？": "https://www.aqniu.com/industry/102590.html"
+    },
+    "FreeBuf网络安全行业门户": {
+        "一黑客因出售美国和加拿大用户银行信息被捕！": "https://www.freebuf.com/news/391984.html",
+        "FreeBuf 早报 | 谷歌Chrome浏览器新功能亮相；ESET修复Windows产品的高危漏洞": "https://www.freebuf.com/news/391974.html",
+        "ESET修复了Windows产品中的高严重性本地权限提升漏洞": "https://www.freebuf.com/news/391969.html",
+        "微软和OpenAI将开启AI账户监控，引发业界隐私担忧": "https://www.freebuf.com/news/391967.html",
+        "谷歌Chrome浏览器新功能亮相，可有效抵御黑客攻击": "https://www.freebuf.com/news/391956.html",
+        "黑莓加大裁员力度，目标年利润再增1亿美元": "https://www.freebuf.com/news/391949.html"
+    },
+    "Checkmarx.com": {
+        "2024 API Risk Management: Secure Your APIs in Cloud-Native World": "https://checkmarx.com/appsec-knowledge-hub/api-security/2024-api-risk-management-secure-your-apis-in-cloud-native-world/",
+        "Open Source vs. Premium SAST Tools: True Costs of “Good enough” static code analysis tools": "https://checkmarx.com/appsec-knowledge-hub/sast/open-source-vs-premium-sast-tools-true-costs-of-good-enough-static-code-analysis-tools/",
+        "API Management Best Practice: Automated API Security Testing": "https://checkmarx.com/appsec-knowledge-hub/api-security/api-management-best-practice-automated-api-security-testing/",
+        "Shadow & Zombie APIs: The Undocumented API Vulnerabilities Threaten Security Posture": "https://checkmarx.com/appsec-knowledge-hub/api-security/shadow-zombie-apis-undocumented-api-vulnerabilities-threaten-security-posture/",
+        "Security Posture Boost: 5 Steps to Effective Static Source Code Analysis": "https://checkmarx.com/appsec-knowledge-hub/sast/boost-your-security-posture-5-steps-to-effective-static-source-code-analysis/"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "花可以帮助清理径流养分": "https://www.solidot.org/story?sid=77391",
+        "Linux 内核成为 CVE 编号颁发机构，发布相关指南": "https://www.solidot.org/story?sid=77390",
+        "法国电信公司因违反 GPL 许可被罚 65 万欧元": "https://www.solidot.org/story?sid=77389",
+        "强风将客机的对地飞行速度推到音速以上": "https://www.solidot.org/story?sid=77388",
+        "游戏行业增长放缓": "https://www.solidot.org/story?sid=77387",
+        "苹果准备推出 AI 辅助编程工具": "https://www.solidot.org/story?sid=77386",
+        "欧盟风力发电超过天然气发电": "https://www.solidot.org/story?sid=77385",
+        "黑客从 23andMe 窃取了约 700 万人的遗传数据": "https://www.solidot.org/story?sid=77384",
+        "波兰新总理称前任政府非法使用间谍软件 Pegasus": "https://www.solidot.org/story?sid=77383",
+        "海洋表面温度快速变热": "https://www.solidot.org/story?sid=77382",
+        "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元": "https://www.solidot.org/story?sid=77381"
+    },
+    "Cat in Chinese": {
+        "Vision Pro 使用体验（Part 2）": "http://chinese.catchen.me/2024/02/blog-post.html"
+    },
+    "forecho's Blog": {
+        "轻松实现期权交易盈利 2.0 版本": "https://blog.forecho.com/about-the-option-fee-group-2.0.html"
+    },
+    "极道": {
+        "2023年度Rust调查结果": "https://www.jdon.com/72562.html",
+        "更小的代码评审提高效率": "https://www.jdon.com/72561.html",
+        "如何选择合适的编程语言？": "https://www.jdon.com/72560.html",
+        "本周人工智能7件事": "https://www.jdon.com/72559.html",
+        "Python中使用Postgres用于队列的实现代码": "https://www.jdon.com/72558.html",
+        "Linux 内核准备升级到 Rust 1.77": "https://www.jdon.com/72557.html",
+        "比较SpringBoot和Node.js之间的JWT授权": "https://www.jdon.com/72556.html",
+        "如何教中国青少年读《伊利亚特》？": "https://www.jdon.com/72548.html"
+    },
+    "鸟窝": {
+        "聊聊 Go 的边界检查消除技木": "https://colobu.com/2024/02/19/bce/"
+    },
+    "二丫讲梵": {
+        "过年时鼓捣xirang框架遇到的前后端问题两则": "https://wiki.eryajf.net/pages/fe52bc/"
+    },
+    "某岛": {
+        "Sora 的想象与思考": "https://www.shuizilong.com/house/archives/on-the-sora/"
+    },
+    "游研社": {
+        "最硬核格斗，剧情却比3D区还刺激": "https://player.bilibili.com/player.html?bvid=1Zv421k7EA&page=1",
+        "《鸣潮》，士别三日": "https://www.yystv.cn/p/11530",
+        "薪资谈判无果，法国育碧员工开展罢工活动": "https://www.yystv.cn/p/11528"
+    },
+    "懒得勤快的博客_互联网分享精神": {
+        "远程桌面管理器——Remote Desktop Manager Enterprise(RDM) 2023.3.39多语言学习版(Windows+MacOS)": "https://masuit.com/59",
+        "Firefox浏览器122.0.1正式版绿色优化增强版_x64": "https://masuit.com/146",
+        "Google Chrome (121.0.6167.185)浏览器绿色优化增强版": "https://masuit.com/120",
+        "新品上市，34寸新品高色域曲面显示器，3440*1440@165Hz电竞显示器，SG5461D10面板": "https://masuit.com/2194",
+        "开♂学了，去上dark♂学了": "https://masuit.com/1627",
+        "软件保护系统VMProtect Ultimate v3.8.4 Build 1754学习版": "https://masuit.com/2270",
+        "ES文件浏览器 v4.4.2.21去除广告解锁VIP版": "https://masuit.com/1926",
+        "抖音 v28.8 for Android 去除广告无水印版": "https://masuit.com/1935",
+        "Android版酷我音乐 v10.7.4/车机版6.0.1破解豪华VIP版": "https://masuit.com/1763",
+        "Microsoft Office 2021 Pro Plus VL 2108专业直装学习版镜像下载2024.2(Windows+MacOS)": "https://masuit.com/1294",
+        "班迪录屏- Bandicam v7.1学习版": "https://masuit.com/1394",
+        "反汇编逆向神器_x64dbg_2024.2.19_中文版": "https://masuit.com/2179"
+    },
+    "小球飞鱼": {
+        "雨水 | 落日熔金，暮云合璧，人在上班": "/weekly/2024/feb.05-feb.19/"
+    },
+    "我有点酷": {
+        "深圳联通光猫改桥接访问ipv6": "https://blog.woyou.cool/posts/7369/"
+    },
+    "沉舟侧畔 Blog": {
+        "“水深火热”的资本主义社会：第二次发钱": "https://springwood.me/child-support-10k/"
+    }
+}
