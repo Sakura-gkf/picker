@@ -1,0 +1,122 @@
+{
+    "InfoSec Write-ups - Medium": {
+        "Penetration Testing Microsoft Copilot 365": "https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4"
+    },
+    "unSafe.sh - 不安全": {
+        "How to Identify & Monitor Insider Threat Indicators [A Guide]": "https://buaq.net/go-228568.html",
+        "攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote": "https://buaq.net/go-228559.html",
+        "Guerre di Rete - AI Act, infine": "https://buaq.net/go-228561.html",
+        "USENIX Security ’23 – Pushed By Accident: A Mixed-Methods Study On Strategies Of Handling Secret Information In Source Code Repositories": "https://buaq.net/go-228569.html",
+        "Mozilla Location Service 即将关闭": "https://buaq.net/go-228560.html",
+        "And.. another (but far more sophisticated) OAuth vulnerability – now it's in ChatGPT": "https://buaq.net/go-228558.html",
+        "ChatGPT商业版（运营级源码）": "https://buaq.net/go-228546.html",
+        "免费IP信息查询API接口": "https://buaq.net/go-228547.html",
+        "Theft and recovery of a Facebook account": "https://buaq.net/go-228550.html"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Winter CMS 1.2.3 - Server-Side Template Injection (SSTI) (Authenticated) exploit": "https://sploitus.com/exploit?id=EDB-ID:51893&utm_source=rss&utm_medium=rss",
+        "Karaf v4.4.3 Console - RCE exploit": "https://sploitus.com/exploit?id=EDB-ID:51895&utm_source=rss&utm_medium=rss",
+        "LaborOfficeFree 19.10 - MySQL Root Password Calculator exploit": "https://sploitus.com/exploit?id=EDB-ID:51894&utm_source=rss&utm_medium=rss",
+        "UPS Network Management Card 4 - Path Traversal exploit": "https://sploitus.com/exploit?id=EDB-ID:51897&utm_source=rss&utm_medium=rss",
+        "Nokia BMC Log Scanner - Remote Code Execution exploit": "https://sploitus.com/exploit?id=EDB-ID:51896&utm_source=rss&utm_medium=rss",
+        "vm2 - sandbox escape exploit": "https://sploitus.com/exploit?id=EDB-ID:51898&utm_source=rss&utm_medium=rss"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Checkmk Agent 2.0.0 / 2.1.0 / 2.2.0 Local Privilege Escalation": "https://cxsecurity.com/issue/WLB-2024030038",
+        "StimulusReflex 3.5.0 Arbitrary Code Execution": "https://cxsecurity.com/issue/WLB-2024030037",
+        "Financials By Coda Authorization Bypass": "https://cxsecurity.com/issue/WLB-2024030036",
+        "Financials By Coda Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2024030035",
+        "Webenlive - Blind Sql Injection": "https://cxsecurity.com/issue/WLB-2024030034",
+        "HALO-2.13.1 Cross-origin resource sharing: arbitrary origin trusted": "https://cxsecurity.com/issue/WLB-2024030033",
+        "Schneider Electric v1.0 - Directory traversal & Broken Authentication": "https://cxsecurity.com/issue/WLB-2024030032",
+        "SiteOmat Fueling System - Default Password": "https://cxsecurity.com/issue/WLB-2024030031"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[local] vm2 - sandbox escape": "https://www.exploit-db.com/exploits/51898",
+        "[webapps] UPS Network Management Card 4 - Path Traversal": "https://www.exploit-db.com/exploits/51897",
+        "[webapps] Nokia BMC Log Scanner - Remote Code Execution": "https://www.exploit-db.com/exploits/51896",
+        "[webapps] Karaf v4.4.3 Console - RCE": "https://www.exploit-db.com/exploits/51895",
+        "[local] LaborOfficeFree 19.10 - MySQL Root Password Calculator": "https://www.exploit-db.com/exploits/51894",
+        "[webapps] Winter CMS 1.2.3 - Server-Side Template Injection (SSTI) (Authenticated)": "https://www.exploit-db.com/exploits/51893"
+    },
+    "Data Breach": {
+        "France Travail data breach impacted 43 Million people": "https://securityaffairs.com/160556/data-breach/france-travail-data-breach-34m-people.html"
+    },
+    "Security Boulevard": {
+        "How to Identify & Monitor Insider Threat Indicators [A Guide]": "https://securityboulevard.com/2024/03/how-to-identify-monitor-insider-threat-indicators-a-guide/",
+        "USENIX Security ’23 – Pushed By Accident: A Mixed-Methods Study On Strategies Of Handling Secret Information In Source Code Repositories": "https://securityboulevard.com/2024/03/usenix-security-23-pushed-by-accident-a-mixed-methods-study-on-strategies-of-handling-secret-information-in-source-code-repositories/"
+    },
+    "HackerNoon": {
+        "The Noonification: 5 Spicy Product Management Takes (3/16/2024)": "https://hackernoon.com/3-16-2024-noonification?source=rss",
+        "Why Cybersecurity for Solar Is Crucial — And Difficult": "https://hackernoon.com/why-cybersecurity-for-solar-is-crucial-and-difficult?source=rss",
+        "5 Spicy Product Management Takes": "https://hackernoon.com/5-spicy-product-management-takes?source=rss",
+        "Acknowledgments and References": "https://hackernoon.com/acknowledgments-and-references?source=rss",
+        "Advancing Video Encryption with Real-Time Parallel Computing Strategy: Conclusion": "https://hackernoon.com/advancing-video-encryption-with-real-time-parallel-computing-strategy-conclusion?source=rss",
+        "Strides in Real-Time Video Encryption: Comparison To Previous Works": "https://hackernoon.com/strides-in-real-time-video-encryption-comparison-to-previous-works?source=rss",
+        "The TechBeat: Everything You Need to Know to Implement Generative AI for Your Enterprise (3/16/2024)": "https://hackernoon.com/3-16-2024-techbeat?source=rss",
+        "How to Use AWS Lambda Authorizer for Flexible and Scalable Web Service Authorization": "https://hackernoon.com/how-to-use-aws-lambda-authorizer-for-flexible-and-scalable-web-service-authorization?source=rss",
+        "ChatRPG - How to Learn Python With AI in a Funny Way": "https://hackernoon.com/chatrpg-how-to-learn-python-with-ai-in-a-funny-way?source=rss"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote": "https://www.solidot.org/story?sid=77615",
+        "Mozilla Location Service 即将关闭": "https://www.solidot.org/story?sid=77614",
+        "汽车厂商与保险公司分享司机驾驶行为数据": "https://www.solidot.org/story?sid=77613",
+        "Reddit 出售用户生成数据训练 AI 引起 FTC 调查": "https://www.solidot.org/story?sid=77612",
+        "Pornhub 屏蔽德州 IP 访问": "https://www.solidot.org/story?sid=77611"
+    },
+    "黑海洋 - WIKI": {
+        "ChatGPT商业版（运营级源码）": "https://blog.upx8.com/4114",
+        "免费IP信息查询API接口": "https://blog.upx8.com/4113",
+        "MediaCrawler-开源小红书抖音微博爬虫工具": "https://blog.upx8.com/4112"
+    },
+    "obaby@mars": {
+        "再谈 WordPress 的速度优化 — 优化插件真的是提速的吗？": "https://www.h4ck.org.cn/2024/03/15874"
+    },
+    "程序人生": {
+        "Linux Empty Search Path Vulnerability": "http://programlife.net/2024/03/16/Linux-Empty-Search-Path-Vulnerability/"
+    },
+    "汲道": {
+        "Java中查找数组多数元素的4种方法": "https://www.jdon.com/72991.html",
+        "Java中查找列表的峰值元素": "https://www.jdon.com/72990.html",
+        "Java中获取URI最后一个路径段的4种方法": "https://www.jdon.com/72989.html",
+        "Redpanda简介": "https://www.jdon.com/72988.html",
+        "Spring中将bean自动装配到ServletFilter的4种方法": "https://www.jdon.com/72987.html",
+        "Spring AI中函数调用Mistral AI最新API": "https://www.jdon.com/72986.html",
+        "Java中使用Jsoup解析HTML表格教程": "https://www.jdon.com/72985.html",
+        "Spring AI中使用嵌入模型和向量数据库实现RAG应用": "https://www.jdon.com/72984.html",
+        "幽默：两种项目包的选择难题": "https://www.jdon.com/72983.html",
+        "数据更改事件的三种类型": "https://www.jdon.com/72982.html",
+        "SpringBoot3中15个案例源码": "https://www.jdon.com/72981.html",
+        "在Podman、Kubernetes和OpenShift上使用Odo实现Java开发": "https://www.jdon.com/72980.html",
+        "比较开源日志：Logstash、FluentD 和 Fluent Bit": "https://www.jdon.com/72979.html",
+        "在 Kotlin + Spring Boot 中使用环境变量": "https://www.jdon.com/72978.html",
+        "什么是反对称关系？": "https://www.jdon.com/72977.html",
+        "开发人员测试 Devin AI 后的发现": "https://www.jdon.com/72976.html"
+    },
+    "forecho's Blog": {
+        "家人被诈骗了": "https://blog.forecho.com/the-familys-been-scammed.html"
+    },
+    "卢昌海个人主页": {
+        "最新微博：2024 年 3 月 16 日": "https://www.changhai.org/articles/miscellaneous/blog/202403.php#latest"
+    },
+    "懒得勤快的博客_互联网分享精神": {
+        "开源纯净的Windows软件包管理器——WingetUI 3.0.1下载": "https://masuit.com/2230",
+        "裸奔工具沙盘 Sandboxie 5.68.3/Sandboxie Plus 1.13.3官方开源免费版": "https://masuit.com/1476",
+        "PDF Shaper 14专业学习版": "https://masuit.com/1389"
+    },
+    "游研社": {
+        "为了打赢“星际越战”，《绝地潜兵2》玩家开始全球动员": "https://www.yystv.cn/p/11591"
+    },
+    "陈少文的网站": {
+        "用了一个月，终于找到点写 AI Agent 的思路": "https://www.chenshaowen.com/blog/provide-a-way-to-develop-ai-agent.html"
+    },
+    "Dennis": {
+        "一个多月前的春天": "https://www.domon.cn/yi-ge-duo-yue-qian-de-chun-tian/"
+    },
+    "CatCoding": {
+        "我喜欢的 shell 工具": "http://catcoding.me/p/handy-sh-tools/"
+    },
+    "Owen的博客": {
+        "J人的本命笔记软件：Capacities": "https://www.owenyoung.com/blog/capacities/"
+    }
+}
