@@ -1,0 +1,154 @@
+{
+    "gynvael.coldwind//vx.log (en)": {
+        "xz/liblzma: Bash-stage Obfuscation Explained": "https://gynvael.coldwind.pl/?id=782"
+    },
+    "SecWiki News": {
+        "SecWiki News 2024-03-30 Review": "http://www.sec-wiki.com/?2024-03-30"
+    },
+    "HackerNoon": {
+        "Analyzing Constitutional Law in Breach of Contract Claims: Damages and First Amendment Principles": "https://hackernoon.com/analyzing-constitutional-law-in-breach-of-contract-claims-damages-and-first-amendment-principles?source=rss",
+        "Court Decision on Amendment Request in Elon Musk's X Breach of Contract Lawsuit": "https://hackernoon.com/court-decision-on-amendment-request-in-elon-musks-x-breach-of-contract-lawsuit?source=rss",
+        "X (Formerly Twitter) v CCDH: Analysis of CFAA Violation Claim": "https://hackernoon.com/x-formerly-twitter-v-ccdh-analysis-of-cfaa-violation-claim?source=rss",
+        "Understanding Damages in Contract Law: A Closer Look at Special Damages and Breach Claims": "https://hackernoon.com/understanding-damages-in-contract-law-a-closer-look-at-special-damages-and-breach-claims?source=rss",
+        "X (Formerly Twitter) Hits CCDH With Breach of Contract Allegations": "https://hackernoon.com/x-formerly-twitter-hits-ccdh-with-breach-of-contract-allegations?source=rss",
+        "The Noonification: The Case Against Rocky Linux (3/30/2024)": "https://hackernoon.com/3-30-2024-noonification?source=rss",
+        "Behold: The Autonomy We Always Sought": "https://hackernoon.com/behold-the-autonomy-we-always-sought?source=rss",
+        "The Case Against Rocky Linux": "https://hackernoon.com/the-case-against-rocky-linux?source=rss",
+        "HackerNoon's Enhanced Top Writers Ranking: Explore the New Page for Tech Categories' Leaders": "https://hackernoon.com/hackernoons-enhanced-top-writers-ranking-explore-the-new-page-for-tech-categories-leaders?source=rss",
+        "Web 2.5: HackerNoon's Vision for a New Wave Internet": "https://hackernoon.com/web-25-hackernoons-vision-for-a-new-wave-internet?source=rss",
+        "The TechBeat: Hungry GPUs Need Fast Object Storage (3/30/2024)": "https://hackernoon.com/3-30-2024-techbeat?source=rss",
+        "Trustworthy Interoperability and Identity Management Systems: What Comes Next": "https://hackernoon.com/trustworthy-interoperability-and-identity-management-systems-what-comes-next?source=rss",
+        "A Trustworthy Cross-Border Interoperable Identity System: What Our Findings Mean": "https://hackernoon.com/a-trustworthy-cross-border-interoperable-identity-system-what-our-findings-mean?source=rss",
+        "The Key Services That Blockchain Development Companies Should Be Offering": "https://hackernoon.com/the-key-services-that-blockchain-development-companies-should-be-offering?source=rss",
+        "What Is the OSI Model?": "https://hackernoon.com/what-is-the-osi-model?source=rss",
+        "How to Save Time on Marketing: 50+ Tasks Done With a Click": "https://hackernoon.com/how-to-save-time-on-marketing-50-tasks-done-with-a-click?source=rss"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Circontrol Raption Buffer Overflow / Command Injection": "https://cxsecurity.com/issue/WLB-2024030078",
+        "util-linux wall Escape Sequence Injection": "https://cxsecurity.com/issue/WLB-2024030077",
+        "FusionPBX Session Fixation": "https://cxsecurity.com/issue/WLB-2024030076",
+        "Purei CMS 1.0 SQL Injection": "https://cxsecurity.com/issue/WLB-2024030075",
+        "WatchGuard XTM Firebox Unauthenticated Remote Command Execution": "https://cxsecurity.com/issue/WLB-2024030074",
+        "FoF Pretty Mail 1.1.2 Command Injection": "https://cxsecurity.com/issue/WLB-2024030073",
+        "Intel PowerGadget 3.6 Local Privilege Escalation": "https://cxsecurity.com/issue/WLB-2024030072",
+        "Wazuh Dashboard - Information Discoluser": "https://cxsecurity.com/issue/WLB-2024030071",
+        "SolarView Compact 6.00 - Command Injection Bypass authentication": "https://cxsecurity.com/issue/WLB-2024030070"
+    },
+    "InfoSec Write-ups - Medium": {
+        "HTB — Active": "https://infosecwriteups.com/htb-active-d9fed1c4da72?source=rss----7b722bfd1b8d---4"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Exploit for Vulnerability in Pyload exploit": "https://sploitus.com/exploit?id=7DE3571B-5D09-5997-A10B-D71BBCA61350&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-3094 exploit": "https://sploitus.com/exploit?id=69940B5C-9F3B-585B-80FA-ECA2F5B92D71&utm_source=rss&utm_medium=rss"
+    },
+    "Security Boulevard": {
+        "An Accidental Discovery of a Backdoor Likely Prevented Thousands of Infections": "https://securityboulevard.com/2024/03/an-accidental-discovery-of-a-backdoor-likely-prevented-thousands-of-infections/",
+        "What You Need to Know About the XZ Utils Backdoor": "https://securityboulevard.com/2024/03/what-you-need-to-know-about-the-xz-utils-backdoor/",
+        "Understanding and Mitigating the Fedora Rawhide Vulnerability (CVE-2024-3094)": "https://securityboulevard.com/2024/03/understanding-and-mitigating-the-fedora-rawhide-vulnerability-cve-2024-3094/",
+        "How did CVE-2024-27198 Lead to Critical Vulnerability in JetBrains?": "https://securityboulevard.com/2024/03/how-did-cve-2024-27198-lead-to-critical-vulnerability-in-jetbrains/"
+    },
+    "HAHWUL": {
+        "Malicious code in xz/liblzma 😱": "https://www.hahwul.com/2024/03/30/malicious-code-in-xz-liblzma/"
+    },
+    "FreeBuf网络安全行业门户": {
+        "你们就当个故事听——黑客如何10秒钟盗走4.5万美金": "https://www.freebuf.com/news/396537.html",
+        "紧急提醒！Xzliblzma 被植入源码级后门": "https://www.freebuf.com/articles/396531.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "Gmail 诞生二十周年": "https://www.solidot.org/story?sid=77740",
+        "AI 生成内容正在污染我们的文化": "https://www.solidot.org/story?sid=77739",
+        "谋杀林奇的游族网络高管被判处死刑": "https://www.solidot.org/story?sid=77738",
+        "xz 开发者植入后门破解 SSH 加密": "https://www.solidot.org/story?sid=77737"
+    },
+    "obaby@mars": {
+        "流年": "https://h4ck.org.cn/2024/03/16105"
+    },
+    "长亭安全应急响应中心": {
+        "【正在深入调查】XZ Utils供应链投毒事件的真实影响：可能并不严重？": "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492437&idx=1&sn=19151b015d21808766e877e164590aff&chksm=96f7fc38a180752eee5aa3f8aa0ec8b91e6a4919687bcefdc480512c87c4a61eeac39dbf240a&scene=58&subscene=0#rd"
+    },
+    "杨龙": {
+        "Arm64 Centos docker 启动 solr 问题解决方法": "https://www.yanglong.pro/arm64-centos-docker-%e5%90%af%e5%8a%a8-solr-%e9%97%ae%e9%a2%98%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/"
+    },
+    "微步在线研究响应中心": {
+        "紧急排查！liblzma/xz官方库被植入后门": "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247505269&idx=1&sn=e133ac4f91a50fcf0eebec1c131db280&chksm=cfcab661f8bd3f778d37f47e708a1a58d60175f44c75d1d46ddd49a69c20d2592a887744631c&scene=58&subscene=0#rd"
+    },
+    "知道创宇404实验室": {
+        "【知道创宇404实验室】警惕Linux生态xz-utils软件包被攻击并植入后门（CVE-2024-3094）": "https://mp.weixin.qq.com/s?__biz=MzAxNDY2MTQ2OQ==&mid=2650977901&idx=1&sn=d9200fcaa853656a5b7310333a4c52bc&chksm=8079f45fb70e7d497ad8e1e241b1791686dd6c9a9f9143d3a33b8d9ec1f535e6a7cf14eef2ab&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "CVE-2022-2588 Dirty Cred漏洞分析与复现": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458549352&idx=1&sn=c45c212b8db20154dbfa9edeaaebc593&chksm=b18d4ce286fac5f415b3697517f2c12d523f7c13d1d143b25d895a980a49a2e420d79e5a46f8&scene=58&subscene=0#rd",
+        "明晚19点直播课！欢迎报名《系统0day安全-Windows平台漏洞挖掘（第2期）》": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458549352&idx=2&sn=4f896f0f8644a3c8984ec9ef0c04cf7b&chksm=b18d4ce286fac5f453954862bb18ba139e33d42aa6231fb393a771a6f36a125f66b5f8d2d831&scene=58&subscene=0#rd"
+    },
+    "落水轩": {
+        "xz xz-utils供应链攻击CVE-2024-3094初步分析": "https://mp.weixin.qq.com/s?__biz=MzI1MjQwMTAyOQ==&mid=2247483855&idx=1&sn=13a48a1e2c31decad06367213547f917&chksm=e9e50525de928c3339c75a7cc8471208a57fe6c0ba4ef069fa40711148b9c148ef88183e1b0e&scene=58&subscene=0#rd"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【开源调查】认知战（Cognitive Warfare）的起源": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651142888&idx=1&sn=8c7ef09416fd0109eaa9105b2bab8783&chksm=f1af4dd2c6d8c4c4f2bfb8c8c922db2fcf28b846d7a9d81a2f44b4099b84367427a94c6627d8&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "小米汽车上市一天订单近 9 万；华为全年营收 7 千亿，利润增 144%；OpenAI 造千亿美元计算机 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653037809&idx=1&sn=b7de8557cc4ed205ed9b9ea0eb8ffcdf&chksm=7e5759474920d051973513dbbd3a5e169bcac9a5a77958aef05c1c8b9782446e992d770b4cf0&scene=58&subscene=0#rd"
+    },
+    "情报分析师": {
+        "美国总统大选关键事件时间线": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650547548&idx=1&sn=5734afd24bf4c1b2f57f563e8ae90466&chksm=87110b17b0668201f5d5f91df0a590a2434eba2e12ca32b9ab6c0b69c546b969d5d373594c66&scene=58&subscene=0#rd"
+    },
+    "火绒安全": {
+        "【火绒安全周报】抖音治理利用AI不当行为/iphone用户警惕被钓鱼风险": "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247518069&idx=1&sn=2584aad344bc2d6f8e183c125da04bcd&chksm=eb70594adc07d05c448d9789b22f7bf3e749ec98528515dffd05f46d8d3c08a4acddd0183899&scene=58&subscene=0#rd"
+    },
+    "天御攻防实验室": {
+        "紧急提醒 | 默认安装于每个Linux发行版中的Xz/liblzma被植入后门程序": "https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485499&idx=1&sn=39c6a0ce96a53a4f3f3ba6d4da239417&chksm=fb04cb53cc734245239ec5fddc4d989b4be715951ae259a6337fd94a51021ebb45550a6131d9&scene=58&subscene=0#rd"
+    },
+    "天融信阿尔法实验室": {
+        "【风险提示】天融信关于liblzma/xz库5.6.0、5.6.1版本后门事件（CVE-2024-3094）的风险提示": "https://mp.weixin.qq.com/s?__biz=Mzg3MDAzMDQxNw==&mid=2247496594&idx=1&sn=e09266aaa54a6ad0e8188a288084ef7f&chksm=ce96beacf9e137ba3f5cf5b3fe2c25d938f100aeb6d1fef231b0e044081c3c86649e0b627e96&scene=58&subscene=0#rd"
+    },
+    "奇安信威胁情报中心": {
+        "liblzma/xz库被植入后门影响SSH事件紧急通告（CVE-2024-3094）": "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247510108&idx=1&sn=726338571c7d1bb396f47d07fa83e2d1&chksm=ea665f2bdd11d63d5db5c710e5e19d0949065f144ca783d25061761f7816e68dd906b871994c&scene=58&subscene=0#rd"
+    },
+    "绿盟科技CERT": {
+        "【漏洞通告】XZ-Utils供应链后门漏洞（CVE-2024-3094）": "https://mp.weixin.qq.com/s?__biz=Mzk0MjE3ODkxNg==&mid=2247488647&idx=1&sn=f2a10f535769b3453789cbc2bf07b706&chksm=c2c6438cf5b1ca9a11cfb8620d56b5b18b415c735e07c7a48397869514a26d27242f3b4849dd&scene=58&subscene=0#rd"
+    },
+    "汲道": {
+        "本周open-interpreter等10个开源AI大模型": "https://www.jdon.com/73176.html",
+        "本周github上Hatchify等9个有趣项目": "https://www.jdon.com/73175.html",
+        "Hibernate中@Struct注解类型": "https://www.jdon.com/73174.html",
+        "Spring Data JPA中事务回滚意外RollbackException": "https://www.jdon.com/73173.html",
+        "Spring Data JPA中事务使用异常TransactionUsageException": "https://www.jdon.com/73172.html",
+        "Spring Data JPA中事务超时TransactionTimedOutException": "https://www.jdon.com/73171.html",
+        "所有Linux发行版被XZ压缩工具植入了后门： CVE-2024-3094": "https://www.jdon.com/73156.html",
+        "大模型Grok-1.5发布": "https://www.jdon.com/73144.html",
+        "OpenAI：可从15秒的音频中克隆出声音": "https://www.jdon.com/73143.html",
+        "曾投资大模型Claude的加密货币平台FTX破产": "https://www.jdon.com/73142.html"
+    },
+    "est の 输入输出": {
+        "雷军 小米汽车 发布会的后劲真大啊": "https://blog.est.im/2024/stderr-06"
+    },
+    "KAIX.IN": {
+        "马局长": "https://kaix.in/2024/0330-director-ma/"
+    },
+    "维基萌": {
+        "置身在鱼群之中🐟": "https://www.wikimoe.com/post/vnmbfkka"
+    },
+    "素生": {
+        "Toots 2024 Mar.17 - Mar.23": "http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240323/",
+        "Toots 2024 Mar.10 - Mar.16": "http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240316/"
+    },
+    "游研社": {
+        "【白夜谈】土耳其烤肉就是西班牙的沙县小吃": "https://www.yystv.cn/p/11625",
+        "如何当一个真正佛系的城市建造者？": "https://www.yystv.cn/p/11624",
+        "消失的“后宫”动画": "https://www.yystv.cn/p/11623"
+    },
+    "瓦解的生活记事": {
+        "入手一台天钡R1": "https://hin.cool/posts/tianbei.html"
+    },
+    "CHEGVA": {
+        "非常实用的急救课程": "https://chegva.com/5997.html"
+    },
+    "Shadow Walker 松烟阁": {
+        "Personal Assistant 支持 Vault 统计状态预览": "https://www.edony.ink/personal-assistant-feature-to-display-statistics/"
+    },
+    "Save The Web Project": {
+        "我们救下了一千万张画作": "https://blog.save-web.org/blog/2024/03/31/we-saved-10-million-huabar-paintings/"
+    },
+    "openSUSE 中文社区": {
+        "openSUSE 应对针对 xz 压缩库的供应链攻击": "/%E6%9B%B4%E6%96%B0%E9%80%9A%E5%91%8A/2024/03/30/xz.html"
+    }
+}
