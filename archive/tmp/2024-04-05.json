@@ -1,0 +1,185 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-04-04 Review": "http://www.sec-wiki.com/?2024-04-04"
+    },
+    "Sandfly Security Blog RSS Feed": {
+        "XZ SSH Backdoor Detection Strategies": "https://sandflysecurity.com/blog/xz-ssh-backdoor-detection-strategies"
+    },
+    "HackerNoon": {
+        "Working Remotely Abroad – What Do You Need to Know?": "https://hackernoon.com/working-remotely-abroad-what-do-you-need-to-know?source=rss",
+        "The Energy-Inefficient AI Era Is Already Here: The Cost of AI": "https://hackernoon.com/the-energy-inefficient-ai-era-is-already-here-the-cost-of-ai?source=rss",
+        "KitOps: Bridging the Gap Between AI/ML and DevOps with Standardized Packaging": "https://hackernoon.com/kitops-bridging-the-gap-between-aiml-and-devops-with-standardized-packaging?source=rss",
+        "Docker Essentials: A Beginner's Guide to Containerization Commands": "https://hackernoon.com/docker-essentials-a-beginners-guide-to-containerization-commands?source=rss",
+        "Will We Ever See Crypto Bounce Back After the FTX Scandal?": "https://hackernoon.com/will-we-ever-see-crypto-bounce-back-after-the-ftx-scandal?source=rss",
+        "How To Fix Duplicate API Requests: Understanding Idempotency": "https://hackernoon.com/how-to-fix-duplicate-api-requests-understanding-idempotency?source=rss",
+        "How to Backup Your DEV.to Articles Locally in Markdown Format": "https://hackernoon.com/how-to-backup-your-devto-articles-locally-in-markdown-format?source=rss",
+        "Data Security in the Cloud: Why You Need Data Detection and Response (DDR)": "https://hackernoon.com/data-security-in-the-cloud-why-you-need-data-detection-and-response-ddr?source=rss",
+        "Async/Await For Basic to Advanced C# Developers: 24 Essential Tips": "https://hackernoon.com/asyncawait-for-basic-to-advanced-c-developers-24-essential-tips?source=rss",
+        "The 30-Day .NET Challenge Day 16: In-Memory Caching": "https://hackernoon.com/the-30-day-net-challenge-day-16-in-memory-caching?source=rss",
+        "Solana (SOL) Surges 5%, Dogecoin (DOGE) Dips 3.5%: Furrever Token (FURR) Emerges as a Presale Gem": "https://hackernoon.com/solana-sol-surges-5percent-dogecoin-doge-dips-35percent-furrever-token-furr-emerges-as-a-presale-gem?source=rss",
+        "\"Often times as a CEO you come to the conclusion that not sleeping is a good choice\" - Jensen Huang": "https://hackernoon.com/often-times-as-a-ceo-you-come-to-the-conclusion-that-not-sleeping-is-a-good-choice-jensen-huang?source=rss",
+        "\"The Person Who Controls the Algorithm Controls the World, Right?\" Mark Cuban on the Lex Fridman Pod": "https://hackernoon.com/the-person-who-controls-the-algorithm-controls-the-world-right-mark-cuban-on-the-lex-fridman-pod?source=rss",
+        "Yann Lecun on \"The Danger in the Concentration of Power Through Proprietary AI Systems\"": "https://hackernoon.com/yann-lecun-on-the-danger-in-the-concentration-of-power-through-proprietary-ai-systems?source=rss",
+        "The Noonification: Sam Bankman-(Never Getting)Fried (4/4/2024)": "https://hackernoon.com/4-4-2024-noonification?source=rss",
+        "Web3 Gaming and NFTs: Altura's Custom White Label Marketplace Solution": "https://hackernoon.com/web3-gaming-and-nfts-alturas-custom-white-label-marketplace-solution?source=rss",
+        "Unleashing the Potential of Content Creators with Whop.com": "https://hackernoon.com/unleashing-the-potential-of-content-creators-with-whopcom?source=rss",
+        "LeverFi Launches OmniZK: A Secure Validation Protocol For Bitcoin DeFi And Omnichain Interactions": "https://hackernoon.com/leverfi-launches-omnizk-a-secure-validation-protocol-for-bitcoin-defi-and-omnichain-interactions?source=rss",
+        "Raiinmaker Closes $7.5M Funding To Advance Decentralized AI": "https://hackernoon.com/raiinmaker-closes-$75m-funding-to-advance-decentralized-ai?source=rss",
+        "Sam Bankman-(Never Getting)Fried": "https://hackernoon.com/sam-bankman-never-gettingfried?source=rss"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Positron Broadcast Signal Processor TRA7005 v1.20 _Passwd Exploit exploit": "https://sploitus.com/exploit?id=ZSL-2024-5813&utm_source=rss&utm_medium=rss",
+        "Positron Broadcast Signal Processor TRA7005 1.20 Authentication Bypass exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177939&utm_source=rss&utm_medium=rss",
+        "User Registration And Login And User Management System 3.2 SQL Injection exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177935&utm_source=rss&utm_medium=rss",
+        "WordPress Membership For WooCommerce Shell Upload exploit": "https://sploitus.com/exploit?id=PACKETSTORM:177934&utm_source=rss&utm_medium=rss",
+        "Exploit for Classic Buffer Overflow in Golang Go exploit": "https://sploitus.com/exploit?id=885A6361-2140-5549-A7B6-1854DD315CD1&utm_source=rss&utm_medium=rss",
+        "Exploit for Embedded Malicious Code in Tukaani Xz exploit": "https://sploitus.com/exploit?id=908626C0-6D80-5E68-87BB-0DBA74E97837&utm_source=rss&utm_medium=rss"
+    },
+    "Microsoft Security Blog": {
+        "Explore Microsoft’s AI innovations at RSA Conference 2024": "https://www.microsoft.com/en-us/security/blog/2024/04/04/explore-microsofts-ai-innovations-at-rsa-conference-2024/"
+    },
+    "Security Boulevard": {
+        "How to Future-Proof Your Business Against Evolving Bot Threats (& Bot Solution Checklist)": "https://securityboulevard.com/2024/04/how-to-future-proof-your-business-against-evolving-bot-threats-bot-solution-checklist/",
+        "Google Chrome Enlists Emerging DBSC Standard to Fight Cookie Theft": "https://securityboulevard.com/2024/04/google-chrome-enlists-emerging-dbsc-standard-to-fight-cookie-theft/",
+        "Mastering MITRE: Enhancing Cybersecurity with Device Log Mapping": "https://securityboulevard.com/2024/04/mastering-mitre-enhancing-cybersecurity-with-device-log-mapping/",
+        "XZ and the Threats to the Digital Supply Chain": "https://securityboulevard.com/2024/04/xz-and-the-threats-to-the-digital-supply-chain/",
+        "Safeguarding Data Security and Privacy on IBM Mainframe: A Comprehensive Approach": "https://securityboulevard.com/2024/04/safeguarding-data-security-and-privacy-on-ibm-mainframe-a-comprehensive-approach/",
+        "Leadership in the Age of AI: Skills You Need to Succeed": "https://securityboulevard.com/2024/04/leadership-in-the-age-of-ai-skills-you-need-to-succeed/",
+        "Why Swimlane Should Be Your Next SOC Vendor": "https://securityboulevard.com/2024/04/why-swimlane-should-be-your-next-soc-vendor/",
+        "From Promising to Practical: The Transformative Impact of Homomorphic Encryption": "https://securityboulevard.com/2024/04/from-promising-to-practical-the-transformative-impact-of-homomorphic-encryption/",
+        "Strata Identity Promotes Gerry Gebel to Vice President of Product and Standards": "https://securityboulevard.com/2024/04/strata-identity-promotes-gerry-gebel-to-vice-president-of-product-and-standards/"
+    },
+    "Trustwave Blog": {
+        "Managed Detection and Response Providers Shouldn’t Lay Claim to Your Custom Content": "https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/managed-detection-and-response-providers-shouldnt-lay-claim-to-your-custom-content/"
+    },
+    "Files ≈ Packet Storm": {
+        "Positron Broadcast Signal Processor TRA7005 1.20 Authentication Bypass": "https://packetstormsecurity.com/files/177939/ZSL-2024-5813.txt",
+        "Debian Security Advisory 5654-1": "https://packetstormsecurity.com/files/177938/dsa-5654-1.txt",
+        "GNU Transport Layer Security Library 3.8.5": "https://packetstormsecurity.com/files/177937/gnutls-3.8.5.tar.xz",
+        "Ubuntu Security Notice USN-6710-2": "https://packetstormsecurity.com/files/177936/USN-6710-2.txt",
+        "User Registration And Login And User Management System 3.2 SQL Injection": "https://packetstormsecurity.com/files/177935/urlums32-sql.txt",
+        "WordPress Membership For WooCommerce Shell Upload": "https://packetstormsecurity.com/files/177934/wpmwc-shell.txt"
+    },
+    "darkreading": {
+        "SEXi Ransomware Desires VMware Hypervisors in Ongoing Campaign": "https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors",
+        "Ivanti Pledges Security Overhaul the Day After 4 More Vulns Disclosed": "https://www.darkreading.com/remote-workforce/ivanti-ceo-commits-to-security-overhaul-day-after-vendor-discloses-4-more-vulns",
+        "Malicious Latrodectus Downloader Picks Up Where QBot Left Off": "https://www.darkreading.com/threat-intelligence/new-loader-takes-over-where-qbot-left-off",
+        "Thousands of Australian Businesses Targeted With 'Reliable' Agent Tesla RAT": "https://www.darkreading.com/remote-workforce/thousands-of-australian-businesses-targeted-with-agent-tesla-rat",
+        "Action1 Unveils 'School Defense' Program To Help Small Educational Institutions Thwart Cyberattacks": "https://www.darkreading.com/cybersecurity-operations/action1-unveils-school-defense-program-to-help-small-educational-institutions-thwart-cyberattacks",
+        "Critical Security Flaw Exposes 1 Million WordPress Sites to SQL Injection": "https://www.darkreading.com/remote-workforce/critical-security-flaw-wordpress-sql-injection",
+        "Cyberattack Shutters Some Operations at Japanese Lens Manufacturer": "https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-shutters-some-operations-at-japanese-lens-manufacturer",
+        "How CISOs Can Make Cybersecurity a Long-Term Priority for Boards": "https://www.darkreading.com/cyber-risk/how-cisos-can-make-cybersecurity-long-term-priority-for-boards",
+        "AI's Dual Role in SMB Brand Spoofing": "https://www.darkreading.com/cybersecurity-analytics/ai-dual-role-smb-brand-spoofing",
+        "Singapore Sets High Bar in Cybersecurity Preparedness": "https://www.darkreading.com/cybersecurity-analytics/singapore-sets-high-bar-in-cybersecurity-preparedness"
+    },
+    "Dancho Danchev's Blog - Mind Streams of Information Security Knowledge": {
+        "Основи на Кибер Разузнаването": "https://ddanchev.blogspot.com/2024/04/blog-post_04.html",
+        "Проактивно Копаене в Сферата на Кибер Войните в САЩ – И Как Можете Да Се Представите По-Добре?": "https://ddanchev.blogspot.com/2024/04/blog-post_4.html",
+        "Ще Играем ли Игра nа Кибер Отмъщение?": "https://ddanchev.blogspot.com/2024/04/n.html",
+        "Основите на Кибер Активите и Усилията за Изграждане на Кибер Инвентар – Предложена Готова Методология": "https://ddanchev.blogspot.com/2024/04/blog-post.html",
+        "Топ 10 Готови Кариерни Позиции за Разузнаване на Кибер Заплахи – И Коя да Изберете?": "https://ddanchev.blogspot.com/2024/04/10.html"
+    },
+    "Data Breach": {
+        "US cancer center City of Hope: data breach impacted 827149 individuals": "https://securityaffairs.com/161481/data-breach/city-of-hope-data-breach.html"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "新《黑客帝国》电影正在制作中": "https://www.solidot.org/story?sid=77779",
+        "在电动汽车项目终止后苹果考虑家用机器人": "https://www.solidot.org/story?sid=77778",
+        "Google 考虑对 AI 驱动的搜索收费": "https://www.solidot.org/story?sid=77777"
+    },
+    "obaby@mars": {
+        "蝴蝶": "https://h4ck.org.cn/2024/04/16143"
+    },
+    "杨龙": {
+        "solr去重": "https://www.yanglong.pro/solr%e5%8e%bb%e9%87%8d/"
+    },
+    "Checkmarx.com": {
+        "Checkmarx One Total Economic Impact Study Finds Return on Investment of 177% in Fewer Than Six Months and Gain of $7.13M in Benefits Over Three Years": "https://checkmarx.com/press-releases/checkmarx-one-total-economic-impact-study-finds-return-on-investment-of-177-in-fewer-than-six-months-and-gain-of-7-13m-in-benefits-over-three-years/",
+        "What Is IaC Security, and How Does It Work?": "https://checkmarx.com/glossary/what-is-iac-security/",
+        "What is Cloud-native Application Security, and How Does It Work?": "https://checkmarx.com/glossary/what-is-cloud-native-appsec/",
+        "Code to Cloud Security: Best Practices": "https://checkmarx.com/glossary/what-is-code-to-cloud-security/",
+        "What Is DAST? Dynamic Application Security Testing Explained": "https://checkmarx.com/glossary/what-is-dast/"
+    },
+    "看雪学苑": {
+        "Unity的et热更新分析和补丁": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458549819&idx=1&sn=1571726e3bb79ee81809fd4fe0f641e6&chksm=b18d4eb186fac7a7e3bd1bfadb73f9f47e7ae1edd996b7f7fde868fd48f10f9196bf6f8e244c&scene=58&subscene=0#rd",
+        "【2024夏季班招生】看雪安卓高级研修班（月薪一万计划）": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458549819&idx=2&sn=692af9637940405cb936bf9430755460&chksm=b18d4eb186fac7a71abcb4e02be01af7733118cbf3a6107dea58b0adfa079f90abfe73b58472&scene=58&subscene=0#rd"
+    },
+    "极客公园": {
+        "全新腾势N7，主打的就是「听劝」，加码豪华、舒适": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653038340&idx=1&sn=b59ffff2551c668a59cfed1076eadfa6&chksm=7e575ab24920d3a446bf67db8ac4514f21916af0820df6998cf2b2cd0b6bd0e4db98051944d1&scene=58&subscene=0#rd",
+        "雷军：SU7大定超过10万；台积电苹果芯片生产线受损严重；受 MEGA 影响，理想调整组织架构 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653038321&idx=1&sn=347110954c1936a75afc9dc9a9bcab1d&chksm=7e575b474920d25137ea479b18c3229f1e4703b4890f9b992c4ce082d7a4ddf3b5738cf8612a&scene=58&subscene=0#rd"
+    },
+    "卢昌海个人主页": {
+        "微言小义 (2024.03)": "https://www.changhai.org/articles/miscellaneous/blog/202403.php"
+    },
+    "情报分析师": {
+        "审讯高手的独门秘籍——如何深度洞察人心": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650547756&idx=1&sn=3cfaa792a8a475b72c53a13b71cab195&chksm=87110867b06681714cdc93df027261301ed752e6da754c74952056a159bc96b12ebd6d1faf96&scene=58&subscene=0#rd",
+        "揭秘如何去有效的面谈和教你审讯的技巧": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650547756&idx=2&sn=537904b05ede2a39be81f3ba1cf99f32&chksm=87110867b0668171606753eb4bc9d1c39efa5ddb6b4edfdb81071514f9e4b090131992c9d446&scene=58&subscene=0#rd"
+    },
+    "安全圈": {
+        "【安全圈】突发！苹果App Store全线崩溃": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652057293&idx=1&sn=1c245ed4493d2222d5ece19475ce8af6&chksm=f36e028dc4198b9b702859f0f7d9a40c6b1b9e31e373bfc2a987e83d5860e50112d0c6b066b7&scene=58&subscene=0#rd",
+        "【安全圈】西安网警成功打掉一出售公民个人信息团伙": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652057293&idx=2&sn=c8fefda1c0bfd66aa9214d12a842d68d&chksm=f36e028dc4198b9bacd7746a19beb12faf336fc8ecae6388ee221b066467592fdc799d153632&scene=58&subscene=0#rd",
+        "【安全圈】ChatGPT 越狱提示在黑客论坛上激增": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652057293&idx=3&sn=35808467b6a14603b89eed71bb37d639&chksm=f36e028dc4198b9bb79d38846d9cb42ce118c71d873406576cb6336141540d1e035653570b8f&scene=58&subscene=0#rd",
+        "【安全圈】WP-Members 插件中的安全漏洞导致脚本注入": "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652057293&idx=4&sn=965b31a78636ecd723b8b5207417ca97&chksm=f36e028dc4198b9b77f14a7be388387867d282a4b40aec251acf38ab6d95bbdfa21e0956fbf5&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "专题·未成年人网络保护 | 构建未成年人网络保护法律制度 助力全球规则发展": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664209703&idx=1&sn=9b2857e1dce057ec35b55910441bb5ff&chksm=8b599fdebc2e16c8f91f5fbe035410388bde18a4947f3de7ec3979f2bfbb0f16397763dadbf2&scene=58&subscene=0#rd",
+        "通知 | 《网络安全技术 生成式人工智能预训练和优化训练数据安全规范（征求意见稿）》等4项国家标准公开征求意见": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664209703&idx=2&sn=f2b42fad6d52fb0bd21a190a4d315abb&chksm=8b599fdebc2e16c8ce3d0c141d45cebe0953ec41f0169814c679af54c79150f6d4998b31d3f1&scene=58&subscene=0#rd",
+        "专家解读 | 加强生成式人工智能的行政法规制": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664209703&idx=3&sn=9e521e08d4c15b13e561b7a08003be9d&chksm=8b599fdebc2e16c884c6d5e77d4d74460c5590cda16ecaf7cdccb2abe00afdb1c3709d2f6b91&scene=58&subscene=0#rd",
+        "专家观点 | 加强隐私权益保护 促进数据高效流通使用": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664209703&idx=4&sn=b2601051f406325095ab453d8822d1ff&chksm=8b599fdebc2e16c8217490a2506c9ce31f645c66e7e35422686477cad67d5cb28a8fcb6384ec&scene=58&subscene=0#rd",
+        "前沿 | 以全球安全倡议推进人工智能治理": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664209703&idx=5&sn=969526b70342e470add1db0c0753894a&chksm=8b599fdebc2e16c85c0c3e1886796d13345fcdc0fc9d8d1db57c67725f1475ab713041af0a20&scene=58&subscene=0#rd"
+    },
+    "Xieisabug": {
+        "减肥计划（第一季度）": "https://www.xiejingyang.com/2024/04/04/%e5%87%8f%e8%82%a5%e8%ae%a1%e5%88%92%e7%ac%ac%e4%b8%80%e5%ad%a3%e5%ba%a6/"
+    },
+    "维基萌": {
+        "博客新增了阅读记录的功能，至此ACGN的记录和活动记录功能全部完成啦！同时，增加了文章底部插入相关作...": "https://www.wikimoe.com/post/yg53jvcf"
+    },
+    "网络空间安全科学学报": {
+        "网安要闻 | 中国网络空间安全协会承办“2024年中非互联网发展与合作论坛·筑牢网络安全坚实屏障”分论坛": "https://mp.weixin.qq.com/s?__biz=MzI0NjU2NDMwNQ==&mid=2247499179&idx=1&sn=21adcf839dfc0889352197f574d9022d&chksm=e9bfe915dec86003ac2ffda289b8db4c2885635a8e8ac9828bea0ce63ef7da6c0290d796cd19&scene=58&subscene=0#rd"
+    },
+    "汲道": {
+        "本周Stirling-PDF等7款有趣Github项目": "https://www.jdon.com/73231.html",
+        "大模型对AI研究有害？": "https://www.jdon.com/73217.html",
+        "苹果推新AI：ReALM": "https://www.jdon.com/73215.html",
+        "Rust内存安全解释": "https://www.jdon.com/73214.html",
+        "7款最佳安卓日历应用": "https://www.jdon.com/73213.html",
+        "10 款最佳免费配音应用程序": "https://www.jdon.com/73212.html",
+        "10个用于冥想和正念的最佳免费安卓应用": "https://www.jdon.com/73211.html",
+        "10个DOC转为DOCX的最佳工具": "https://www.jdon.com/73210.html",
+        "10 个HTML转为PDF最佳工具": "https://www.jdon.com/73209.html",
+        "Suno AI：使用文本提示制作音乐": "https://www.jdon.com/73208.html",
+        "Spring Boot中使用Loki日志": "https://www.jdon.com/73207.html"
+    },
+    "二丫讲梵": {
+        "学习周刊-总第153期-2024年第14周": "https://wiki.eryajf.net/pages/dd67ad/"
+    },
+    "azhuge233's": {
+        "华为 Mate 10 Moonlight 串流高解码时间的解决方法": "https://azhuge233.com/%e5%8d%8e%e4%b8%ba-mate-10-moonlight-%e4%b8%b2%e6%b5%81%e9%ab%98%e8%a7%a3%e7%a0%81%e6%97%b6%e9%97%b4%e7%9a%84%e8%a7%a3%e5%86%b3%e6%96%b9%e6%b3%95/"
+    },
+    "陈少文的网站": {
+        "模型并行训练技术": "https://www.chenshaowen.com/blog/model-parallel-training-techniques.html"
+    },
+    "游研社": {
+        "一场愚人节联动引发的“二游血案”": "https://www.yystv.cn/p/11639",
+        "采访《圣兽之王》制作人：这并非“按部就班”能够取得的成功": "https://www.yystv.cn/p/11637",
+        "星露谷大更后，玩家们开始痴迷“直饮蛋黄酱”": "https://www.yystv.cn/p/11638"
+    },
+    "Lawrence Li": {
+        "在 Flyway 迁移类中实现依赖注入": "https://lawrenceli.me/blog/flyway"
+    },
+    "CatCoding": {
+        "xz-backdoor 观感": "http://catcoding.me/p/xz-backdoor/"
+    },
+    "烧饼博客": {
+        "Debian 12 / Ubuntu 22.04 安装 PowerDNS 和 PowerDNS-Admin 自建权威 DNS 教程": "https://u.sb/debian-install-powerdns/"
+    },
+    "openSUSE 中文社区": {
+        "研讨会系列继续推出新剧集": "/%E7%A4%BE%E5%8C%BA%E6%96%B0%E9%97%BB/2024/04/04/workshop.html"
+    },
+    "Conge": {
+        "2024 三月读逻辑学，觉醒，小王子…5 本": "https://conge.livingwithfcs.org/2024/04/04/reading_summary/"
+    },
+    "Elmagnifico's Blog": {
+        "BE6500Pro刷机开启SSH": "https://elmagnifico.tech/2024/04/05/MiRouter-BE6500Pro/"
+    }
+}
