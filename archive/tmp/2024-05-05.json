@@ -1,0 +1,180 @@
+{
+    "SecWiki News": {
+        "SecWiki News 2024-05-04 Review": "http://www.sec-wiki.com/?2024-05-04"
+    },
+    "cloud world": {
+        "Golang 如何实现自定义 CDC 工具？": "https://cloudsjhan.github.io/2024/05/04/Golang-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89-CDC-%E5%B7%A5%E5%85%B7%EF%BC%9F/"
+    },
+    "CXSECURITY Database RSS Feed - CXSecurity.com": {
+        "Sandhya Branding Agency - Blind Sql Injection": "https://cxsecurity.com/issue/WLB-2024050013",
+        "Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link Device Config Disclosure": "https://cxsecurity.com/issue/WLB-2024050012",
+        "Microsoft PlayReady Cryptography Weakness": "https://cxsecurity.com/issue/WLB-2024050011",
+        "Webenlive - Sql Injection": "https://cxsecurity.com/issue/WLB-2024050010",
+        "SOPlanning 1.52.00 Cross Site Scripting": "https://cxsecurity.com/issue/WLB-2024050009",
+        "SOPlanning 1.52.00 SQL Injection": "https://cxsecurity.com/issue/WLB-2024050008",
+        "SOPlanning 1.52.00 Cross Site Request Forgery": "https://cxsecurity.com/issue/WLB-2024050007",
+        "BitraTech - Sql Injection": "https://cxsecurity.com/issue/WLB-2024050006",
+        "Bigem Teknoloji - Blind Sql Injection": "https://cxsecurity.com/issue/WLB-2024050005"
+    },
+    "HackerNoon": {
+        "Online Information of Vaccines: Table 2. Percentage of Vaccine-negative Webpages in Different SERPs": "https://hackernoon.com/online-information-of-vaccines-table-2-percentage-of-vaccine-negative-webpages-in-different-serps?source=rss",
+        "Online Information of Vaccines: Table 1. Example of Classification of Webpages": "https://hackernoon.com/online-information-of-vaccines-table-1-example-of-classification-of-webpages?source=rss",
+        "Online Information of Vaccines: Abstract and Introduction": "https://hackernoon.com/online-information-of-vaccines-abstract-and-introduction?source=rss",
+        "Online Information of Vaccines: Results": "https://hackernoon.com/online-information-of-vaccines-results?source=rss",
+        "Online Information of Vaccines: Conclusion and References": "https://hackernoon.com/online-information-of-vaccines-conclusion-and-references?source=rss",
+        "Online Information of Vaccines: Discussion": "https://hackernoon.com/online-information-of-vaccines-discussion?source=rss",
+        "Online Information of Vaccines: Web Search and Content Analysis": "https://hackernoon.com/online-information-of-vaccines-web-search-and-content-analysis?source=rss",
+        "Online Information of Vaccines: Methods": "https://hackernoon.com/online-information-of-vaccines-methods?source=rss",
+        "Preparing Complex Datasets for Amazon's Recommender System Study": "https://hackernoon.com/preparing-complex-datasets-for-amazons-recommender-system-study?source=rss",
+        "Assessing Non-linearities and Distribution Assumptions in Barrier-to-Exit Analysis": "https://hackernoon.com/assessing-non-linearities-and-distribution-assumptions-in-barrier-to-exit-analysis?source=rss",
+        "Meet MinIO: The HackerNoon Company of the Week": "https://hackernoon.com/meet-minio-the-hackernoon-company-of-the-week?source=rss",
+        "The Noonification: Read Code Like a Hacker With the SAST (5/4/2024)": "https://hackernoon.com/5-4-2024-noonification?source=rss",
+        "EigenLayer Airdrop Has Highlighted the Problems in the Crypto Market": "https://hackernoon.com/eigenlayer-airdrop-has-highlighted-the-problems-in-the-crypto-market?source=rss",
+        "Ensuring Model Validity: A Closer Look at Assumptions in Amazon's Barrier-to-Exit Analysis": "https://hackernoon.com/ensuring-model-validity-a-closer-look-at-assumptions-in-amazons-barrier-to-exit-analysis?source=rss",
+        "Working With Wav2vec2 Part 1: Finetuning XLS-R for Automatic Speech Recognition": "https://hackernoon.com/working-with-wav2vec2-part-1-finetuning-xls-r-for-automatic-speech-recognition?source=rss",
+        "Ensuring Cyber Resilience: The Imperative of Automating the APT Discovery Process": "https://hackernoon.com/ensuring-cyber-resilience-the-imperative-of-automating-the-apt-discovery-process?source=rss",
+        "The TechBeat: How to Earn $1 Million With AWS in One Year (5/4/2024)": "https://hackernoon.com/5-4-2024-techbeat?source=rss",
+        "Additional Information About the Algorithmic Contract Design Experiments: What You Should Know": "https://hackernoon.com/additional-information-about-the-algorithmic-contract-design-experiments-what-you-should-know?source=rss",
+        "How to Find Out If You're Paying for Slow Internet": "https://hackernoon.com/how-to-find-out-if-youre-paying-for-slow-internet?source=rss"
+    },
+    "Security Boulevard": {
+        "USENIX Security ’23 – Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs": "https://securityboulevard.com/2024/05/usenix-security-23-silent-bugs-matter-a-study-of-compiler-introduced-security-bugs/",
+        "The Real Risk is Not Knowing Your Real Risk: Perspectives from Asia Pacific Tour with EY": "https://securityboulevard.com/2024/05/the-real-risk-is-not-knowing-your-real-risk-perspectives-from-asia-pacific-tour-with-ey/",
+        "DD2345 Military Critical Technical Data Agreement and CMMC": "https://securityboulevard.com/2024/05/dd2345-military-critical-technical-data-agreement-and-cmmc/"
+    },
+    "Exploit-DB.com RSS Feed": {
+        "[webapps] Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link - Device Config Disclosure": "https://www.exploit-db.com/exploits/52007",
+        "[webapps] Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link - Authentication Bypass": "https://www.exploit-db.com/exploits/52006",
+        "[webapps] Elber Cleber/3 Broadcast Multi-Purpose Platform 1.0.0 - Device Config Disclosure": "https://www.exploit-db.com/exploits/52005",
+        "[webapps] Elber Cleber/3 Broadcast Multi-Purpose Platform 1.0.0 - Authentication Bypass": "https://www.exploit-db.com/exploits/52004",
+        "[webapps] Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 - Device Config Disclosure": "https://www.exploit-db.com/exploits/52003",
+        "[webapps] Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 - Authentication Bypass": "https://www.exploit-db.com/exploits/52002"
+    },
+    "Joseph Thacker": {
+        "assumptions_made": "http://josephthacker.com/ai/2024/05/04/introducing-assumptions-made-for-ai-agents.html"
+    },
+    "博客园 - 郑瀚Andrew": {
+        "关于农业种植的若干思考 - 郑瀚Andrew": "https://www.cnblogs.com/LittleHann/p/18172470"
+    },
+    "Sploitus.com Exploits RSS Feed": {
+        "Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link - Device Config Disclosure exploit": "https://sploitus.com/exploit?id=EDB-ID:52007&utm_source=rss&utm_medium=rss",
+        "Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link - Authentication Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:52006&utm_source=rss&utm_medium=rss",
+        "Elber Cleber/3 Broadcast Multi-Purpose Platform 1.0.0 - Authentication Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:52004&utm_source=rss&utm_medium=rss",
+        "Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 - Authentication Bypass exploit": "https://sploitus.com/exploit?id=EDB-ID:52002&utm_source=rss&utm_medium=rss",
+        "Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 - Device Config Disclosure exploit": "https://sploitus.com/exploit?id=EDB-ID:52003&utm_source=rss&utm_medium=rss",
+        "Elber Cleber/3 Broadcast Multi-Purpose Platform 1.0.0 - Device Config Disclosure exploit": "https://sploitus.com/exploit?id=EDB-ID:52005&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-26304 exploit": "https://sploitus.com/exploit?id=3E920B09-97E6-5569-88B5-5E0C465FAAFC&utm_source=rss&utm_medium=rss",
+        "Exploit for Code Injection in Cisco Adaptive Security Appliance Software exploit": "https://sploitus.com/exploit?id=F62B64EF-0569-56BF-8FB8-62973F5AC7F8&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2024-30491 exploit": "https://sploitus.com/exploit?id=ECFB207B-A986-5012-AF23-1B4B78BE7CAE&utm_source=rss&utm_medium=rss",
+        "Exploit for PHP External Variable Modification in Juniper Junos exploit": "https://sploitus.com/exploit?id=427AC668-E4DA-5FEF-9D72-F12A19BF6221&utm_source=rss&utm_medium=rss",
+        "Exploit for CVE-2023-23752 exploit": "https://sploitus.com/exploit?id=A4A28AC0-5004-5770-8AA4-985407AC170D&utm_source=rss&utm_medium=rss"
+    },
+    "奇客Solidot–传递最新科技情报": {
+        "宇航员在月球上沿着“死亡之墙”跑步有助于保持健康": "https://www.solidot.org/story?sid=78075",
+        "愈来愈多的科学家使用 AI 撰写论文": "https://www.solidot.org/story?sid=78074",
+        "美国官员督促中俄承诺不用 AI 控制核武器": "https://www.solidot.org/story?sid=78073"
+    },
+    "风之栖息地": {
+        "ARM安全特性PA(Pointer Authentication)的技术洞察": "https://hurricane618.me/2024/05/05/pointer-authentication-collection-1/"
+    },
+    "丁爸 情报分析师的工具箱": {
+        "【资料】美国这部法案是全球唯一": "https://mp.weixin.qq.com/s?__biz=MzI2MTE0NTE3Mw==&mid=2651143595&idx=1&sn=a186f321cffbae4c7454d25a85a528b1&chksm=f1af4a91c6d8c387b07d54b93b95d89e0366cf9b626c4cbf5335d083da37d2aff38c5f515595&scene=58&subscene=0#rd"
+    },
+    "dotNet安全矩阵": {
+        ".NET 矩阵内部知识库假期特价最后一天!": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247491630&idx=1&sn=cd22999b412c52c9b95219f513780809&chksm=fa594ec3cd2ec7d5ec16ff57d6efb2e56eae4087ccaec12ad06992a2d67843cbc9efb48e9cc9&scene=58&subscene=0#rd",
+        "国内最大的.NET安全攻防知识社区": "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247491630&idx=2&sn=cc055721d9800ad8b30749dff4f7c32b&chksm=fa594ec3cd2ec7d5c97826d08afe4dbcd1923753e14e1254dd4064c3734a1d3dd220dc1a10b6&scene=58&subscene=0#rd"
+    },
+    "看雪学苑": {
+        "Windows 主机入侵检测与防御内核技术深入解析": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458553431&idx=1&sn=c2d1e01e4c6720d78bc1574c7bf31a57&chksm=b18dbcdd86fa35cbcc56961d6fb31e826c79008814e3861f332d23b87c85910e7f2cf152f7d6&scene=58&subscene=0#rd",
+        "0day 2期-更新第7章：Windows服务漏洞原理讲解": "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458553431&idx=2&sn=6a811b6c6ec0fa04b5f83e533744bf50&chksm=b18dbcdd86fa35cb1e6cf0a558fa3fe2d8545edeb2484e52704f66d4cfb69d1793215cdcebc1&scene=58&subscene=0#rd"
+    },
+    "安全研究GoSSIP": {
+        "G.O.S.S.I.P 阅读推荐 2024-05-04 Deep Dive into XZ Backdoor": "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247497908&idx=1&sn=e4f06e48973b25840d97a77fcc34b2e0&chksm=c063d66df7145f7b677f6c8363675253ddc592de3e810598fd8259d47595916547b013098e97&scene=58&subscene=0#rd"
+    },
+    "中国信息安全": {
+        "专题·智能网联汽车安全 | 自动驾驶网络安全政策与标准化研究": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664212220&idx=1&sn=d3f9267184340204c4536f5451f1c816&chksm=8b59a405bc2e2d13832538651e2412e499552758f4b1aab57ab788c3726cc4657fb8f618e918&scene=58&subscene=0#rd",
+        "孙凝晖院士：人工智能与智能计算的发展": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664212220&idx=2&sn=6ab711abc122eff78943b564a0efd15e&chksm=8b59a405bc2e2d1324a606d5ddd8d62e0973a431a8b3a7412881b5e3b5308013bb3199e72a08&scene=58&subscene=0#rd",
+        "解读 | 以共享数字经济成果、释放数据资产价值为目标 加强数据资产全过程管理": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664212220&idx=3&sn=00e75177098a7a1c2395d59b8142adeb&chksm=8b59a405bc2e2d13635acddbf1054bf800d89b7226fe0b809a78c57f61c1c070cafb175c690a&scene=58&subscene=0#rd",
+        "专家观点 | 依法从严精准惩治网络暴力“按键杀人”": "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664212220&idx=4&sn=90ebe6ffec5b112a73ddbc0e7f5cc6c3&chksm=8b59a405bc2e2d13617fca0efa0df394f55767a669b3e40c6d26801d6819b06ae6f9fd505e5a&scene=58&subscene=0#rd"
+    },
+    "TecHug": {
+        "【译论】杰出程序员的秘诀": "https://www.techug.com/post/outstanding-programmers/",
+        "如何从 Windows 安装程序安装 Linux": "https://www.techug.com/post/how-to-install-linux-from-a-windows-installer/",
+        "电影中的和幕后的": "https://www.techug.com/post/in-movie-and-behind-the-scene/"
+    },
+    "汲道": {
+        "用还原论方法研究大语言模型？": "https://www.jdon.com/73565.html",
+        "DebateGPT: 与你辩论的人工智能代理": "https://www.jdon.com/73564.html",
+        "Rill：Go语言中并发+事务的批处理开源项目": "https://www.jdon.com/73563.html",
+        "是什么让 Phi-3 如此出色？": "https://www.jdon.com/73562.html",
+        "美国DEI法案对印度裔或亚裔人在科技就业方面的影响": "https://www.jdon.com/73561.html",
+        "本周10个Github有趣项目WebLlama等": "https://www.jdon.com/73551.html",
+        "产品经理、设计师和技术三角色合一": "https://www.jdon.com/73550.html"
+    },
+    "情报分析师": {
+        "揭秘美国全球军事基地群": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650549054&idx=1&sn=7f511584aa3907b379242120af045753&chksm=87110575b0668c636baa0ad4718bc58bf5add75a44c6eb24a20fbfc22d7a0bf6f5e542d41577&scene=58&subscene=0#rd",
+        "菲律宾国家安全政策2023-2028": "https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650549054&idx=2&sn=579fef7c4132fe91d7333fce26ba1656&chksm=87110575b0668c63305a7c1bda8230fd8e32f04a7d183403573e6256230442fe57e8aa127708&scene=58&subscene=0#rd"
+    },
+    "鸟窝": {
+        "Rust Tokio 任务取消模式": "https://colobu.com/2024/05/04/Rust-tokio-task-cancellation-patterns/"
+    },
+    "某岛": {
+        "动态直径相关": "https://www.shuizilong.com/house/archives/dynamic-diameter/"
+    },
+    "极客公园": {
+        "终于有正经 AI 硬件了，一台能写诗的「拍立得」": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653040467&idx=1&sn=1896e761f741c4f1728691d593c0b5e0&chksm=7e5752e54920dbf3b8095a48aab0f5840bb571abde892f7fbb715963eaeb0b53a7fc3faa6242&scene=58&subscene=0#rd",
+        "OpenAI 或将推搜索引擎，挑战谷歌；李飞飞 AI公司获融资，主打「空间智能」；嫦娥六号发射成功，开启月球之旅 | 极客早知道": "https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653040466&idx=1&sn=cc19fec7624bd356a161951dec6eeb60&chksm=7e5752e44920dbf22ab129e5e43513b392e467b29a4dcdfd9bb6699c73f6a13e38766da7465f&scene=58&subscene=0#rd"
+    },
+    "维基萌": {
+        "面码找到你了！探寻超平和Busters的秘密基地——《我们仍未知道那天所看见的花的名字》秩父圣地巡礼": "https://www.wikimoe.com/post/p39f6qrp",
+        "🤣有网友反馈，小破站已经被升级成菠菜网站了": "https://www.wikimoe.com/post/dg78ubj4"
+    },
+    "网安寻路人": {
+        "美国土安全部：《降低人工智能风险：关键基础设施所有者和运营者安全和安保指南》全文翻译": "https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247503104&idx=1&sn=a876b2c1c4b9d40477aa5e8a419a97e6&chksm=97e970eaa09ef9fc4c99567397b9723821fc0a837d16d205dd20de60174067893d91d6ec2ea0&scene=58&subscene=0#rd"
+    },
+    "懒得勤快的博客_互联网分享精神": {
+        "正当防卫 2024 第二十条 4k 下载": "https://masuit.com/23",
+        "安卓系统清理SD Maid SE 0.24β学习版": "https://masuit.com/1984",
+        "AdGuard Premium v4.4.170 for Android广告拦截器学习版": "https://masuit.com/1591"
+    },
+    "迷途小书童的Note": {
+        "开源高性能聊天机器人框架LobeChat": "https://xugaoxiang.com/2024/05/04/lobechat/"
+    },
+    "emperinter": {
+        "TaskClosure - DeadLine Pro": "https://www.emperinter.info/2024/05/05/taskclosure-deadline-pro/"
+    },
+    "Bboysoul's Blog": {
+        "我关注的项目这周更新了什么-20240504": "https://www.bboy.app/2024/05/04/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E8%BF%99%E5%91%A8%E6%9B%B4%E6%96%B0%E4%BA%86%E4%BB%80%E4%B9%88-20240504/"
+    },
+    "文艺数学君": {
+        "北邮人论坛十大_2024_05_04": "https://mathpretty.com/17073.html"
+    },
+    "祝融说。": {
+        "弱小不应是被欺凌的理由。": "https://zhurongshuo.com/posts/2024/05/0501/"
+    },
+    "mghio": {
+        "如何阅读论文（Paper）": "https://www.mghio.cn/post/e1358fc9.html"
+    },
+    "Mokeyjay's Blog - 超能小紫": {
+        "原来 k3s 的证书默认一年就会过期": "https://mok.moe/p/3c20"
+    },
+    "游研社": {
+        "被《星空》伤透了心的玩家们，还在找代餐": "https://www.yystv.cn/p/11709",
+        "终于「尊重原著」的仙剑改编剧，有好起来吗？": "https://www.yystv.cn/p/11708"
+    },
+    "旅行者的随想": {
+        "Next SSR 开发与实践": "https://blog.besscroft.com/articles/2024/next-ssr-practice/"
+    },
+    "向阳而生": {
+        "夜泊西湖听雨": "https://blog.7wate.com/archives/ye-bo-xi-hu-ting-yu"
+    },
+    "whyes 的博客": {
+        "卫健委《原发性肝癌诊疗指南（2024年版）》更新要点": "http://whyes.org/2024/cnlc-hcc-guideline-2024"
+    },
+    "山月": {
+        "QNAP NAS使用者注意！千万莫对MariaDB做这件事……": "https://sanguok.com/blog/dont-enable-innodb-for-qnap-nas-mariadb10/"
+    },
+    "Shiroha白羽的博客": {
+        "Codeforces Round 942 (Div. 2)": "https://blog.mauve.icu/2024/05/04/acm/codeforces/CodeforcesRound942/"
+    }
+}
